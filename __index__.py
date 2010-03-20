@@ -63,4 +63,6 @@ if __name__ == "__main__":
             pass #Failure
         analyze2 = Popen(["python", "nomarkanalyze.py"]+list(arg), stdout=PIPE, stderr = PIPE)
         analyze2.communicate()
+        Popen(["python", "contour3danalysis.py"]+list(arg), stdout=PIPE, stderr = PIPE).communicate()
+        Popen(["python", "surface3danalysis.py"]+list(arg), stdout=PIPE, stderr = PIPE).communicate()
     
