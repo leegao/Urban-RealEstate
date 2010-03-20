@@ -1,0 +1,5 @@
+Batch Processing:
+	python __index__.py
+	
+Data Analysis:
+	analysis.py dataset.csv <street 1> <street 2> <street 3> ...
