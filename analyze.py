@@ -63,5 +63,5 @@ if __name__ == "__main__":
         print "Usage: analyze.py <file> <street1> <street2> <street3> ..."
         sys.exit(1)
     plt = analyze(Filter(*sys.argv[1:]))
-    plt.savefig("results/data."+(".".join(sys.argv[2:])).replace(" ","_")+".png")
+    plt.savefig("results/data.marked."+(".".join(sys.argv[2:])).replace(" ","_")+".png")
     print "0"
