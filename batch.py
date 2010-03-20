@@ -37,7 +37,7 @@ addrs = [
         ("77081.csv", "Renwick Dr", "Gulfton Dr", "Chimney Rock Rd", "Bellaire Blvd")
         
         ]
-addrs = [("77096.csv", "Chimney Rock Rd", "S Braeswood Blvd", "S Rice Ave", "Rutherglenn Dr")]
+#addrs = [("77096.csv", "Chimney Rock Rd", "S Braeswood Blvd", "S Rice Ave", "Rutherglenn Dr")]
 if __name__ == "__main__":
     from see import see
     for arg in addrs:
@@ -61,7 +61,7 @@ if __name__ == "__main__":
                 for i in o[1].split("\n"):
                     print "\t"+i
             pass #Failure
-        Popen(["python", "nomarkanalyze.py"]+list(arg), stdout=PIPE, stderr = PIPE).communicate()
+        Popen(["python", "nomarkanalysis.py"]+list(arg), stdout=PIPE, stderr = PIPE).communicate()
         Popen(["python", "contour3danalysis.py"]+list(arg), stdout=PIPE, stderr = PIPE).communicate()
         Popen(["python", "surface3danalysis.py"]+list(arg), stdout=PIPE, stderr = PIPE).communicate()
         Popen(["python", "scatter3danalysis.py"]+list(arg), stdout=PIPE, stderr = PIPE).communicate()
