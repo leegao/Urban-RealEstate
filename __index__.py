@@ -12,7 +12,7 @@ def process(arg):
         return zip.search(arg).group()
     return 0
 
-SEARCH = False
+SEARCH = True
 
 addrs = [
          
@@ -33,7 +33,8 @@ addrs = [
         ("77005.csv", "Rice Blvd", "S Shepherd Dr", "Bissonnet St", "Greenbriar St"),
         ("77005.csv", "Bellaire Blvd", "Stella Link Rd", "Weslayan St", "Bissonnet St", "Community Dr"),
         ("77401.csv", "Beechnut St", "S Rice Ave", "Bellaire Blvd", "W Loop S Fwy"),
-        ("77096.csv", "Chimney Rock Rd", "S Braeswood Blvd", "S Rice Ave", "Rutherglenn Dr")
+        ("77096.csv", "Chimney Rock Rd", "S Braeswood Blvd", "S Rice Ave", "Rutherglenn Dr"),
+        ("77081.csv", "Renwick Dr", "Gulfton Dr", "Chimney Rock Rd", "Bellaire Blvd")
         
         ]
 
@@ -48,11 +49,16 @@ if __name__ == "__main__":
             else: print "\tContinuing"; continue
         
         analyze = Popen(["python", "analyze.py"]+list(arg), stdout=PIPE, stderr = PIPE)
-        output =  analyze.communicate()[0]
+        o =  analyze.communicate()
+        output = o[0]
         
         if len(output)==3:
             pass #Success
         else:
             print "\tAnalysis Failed"
+            if o[1]:
+                er = ""
+                for i in o[1].split("\n"):
+                    print "\t"+i
             pass #Failure
     

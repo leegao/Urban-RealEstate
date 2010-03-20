@@ -11,862 +11,862 @@ tp5
 (F29.799968
 F-95.416618
 tp6
-s(V914 lawrence, houston (TX)
+s(V4414 camellia lane, bellaire (TX)
 p7
 tp8
-(F29.787554
-F-95.406925999999999
-tp9
-s(V4414 camellia lane, bellaire (TX)
-p10
-tp11
 (F29.708083999999999
 F-95.451076
-tp12
+tp9
 s(V1130 w 23rd, houston (TX)
-p13
-tp14
+p10
+tp11
 (F29.806573
 F-95.419816999999995
-tp15
+tp12
 s(V615 east 12th st, houston (TX)
-p16
-tp17
+p13
+tp14
 (F29.792891000000001
 F-95.391375999999994
-tp18
+tp15
 s(V8236 golf green cir, houston (TX)
-p19
-tp20
+p16
+tp17
 (F29.711625000000002
 F-95.526837999999998
-tp21
+tp18
 s(V3123 s braeswood blvd, houston (TX)
-p22
-tp23
+p19
+tp20
 (F29.695781
 F-95.425914000000006
-tp24
+tp21
 s(V1717 w 13th, houston (TX)
-p25
-tp26
+p22
+tp23
 (F29.794321
 F-95.413736
-tp27
+tp24
 s(S'street 3 and street 2, Houston TX'
-p28
-tp29
+p25
+tp26
 (F29.869555999999999
 F-95.552441999999999
-tp30
+tp27
 s(V1027 vaulted oak street, houston (TX)
-p31
-tp32
+p28
+tp29
 (F29.788177000000001
 F-95.440081000000006
-tp33
+tp30
 s(V5310 maple st, bellaire (TX)
-p34
-tp35
+p31
+tp32
 (F29.691417999999999
 F-95.478050999999994
-tp36
+tp33
 s(V5542 lymbar, houston (TX)
-p37
-tp38
+p34
+tp35
 (F29.668126000000001
 F-95.48218
-tp39
+tp36
 s(V1723 w 14th g, houston (TX)
+p37
+tp38
+(F29.796068999999999
+F-95.413809000000001
+tp39
+s(V919 vaulted oak street, houston (TX)
 p40
 tp41
-(F29.796068999999999
-F-95.413809000000001
-tp42
-s(V919 vaulted oak street, houston (TX)
-p43
-tp44
 (F29.787582
 F-95.439222999999998
-tp45
+tp42
 s(V2234 gostic, houston (TX)
-p46
-tp47
+p43
+tp44
 (F29.806488999999999
 F-95.391092
-tp48
+tp45
 s(V4419 Meyerwood Dr, Houston (TX)
-p49
-tp50
+p46
+tp47
 (F29.680751999999998
 F-95.451504999999997
-tp51
+tp48
 s(V1031 herkimer st, houston (TX)
-p52
-tp53
+p49
+tp50
 (F29.790243
 F-95.406383000000005
-tp54
+tp51
 s(S'StCommunity and Dr, Houston TX'
+p52
+tp53
+(F37.0625
+F-95.677068000000006
+tp54
+s(V1411 blair st, houston (TX)
 p55
 tp56
-(F37.0625
-F-95.677068000000006
-tp57
-s(V1411 blair st, houston (TX)
-p58
-tp59
 (F29.796588
 F-95.407032000000001
-tp60
+tp57
 s(S'Bissonnet St and Buffalo Spdwy, Houston TX'
+p58
+tp59
+(F37.0625
+F-95.677068000000006
+tp60
+s(V1217 mulberry, bellaire (TX)
 p61
 tp62
-(F37.0625
-F-95.677068000000006
-tp63
-s(V1217 mulberry, bellaire (TX)
-p64
-tp65
 (F29.721792000000001
 F-95.449933999999999
-tp66
+tp63
 s(S'Link and RdS, Houston TX'
-p67
-tp68
+p64
+tp65
 (F29.846679999999999
 F-95.462574000000004
-tp69
+tp66
 s(V911 wildwood ln, bellaire (TX)
-p70
-tp71
+p67
+tp68
 (F29.715547999999998
 F-95.455260999999993
-tp72
+tp69
 s(V912 w 25th #1, houston (TX)
-p73
-tp74
+p70
+tp71
 (F29.808647000000001
 F-95.415261999999998
-tp75
+tp72
 s(V1258 seamist dr, houston (TX)
-p76
-tp77
+p73
+tp74
 (F29.792324000000001
 F-95.437352000000004
-tp78
+tp75
 s(V4305 ione st, bellaire (TX)
-p79
-tp80
+p76
+tp77
 (F29.70391
 F-95.447941
-tp81
+tp78
 s(V2623 lawrence, houston (TX)
-p82
-tp83
+p79
+tp80
 (F29.810155999999999
 F-95.408169999999998
-tp84
+tp81
 s(V6018 spellman, houston (TX)
-p85
-tp86
+p82
+tp83
 (F29.658327
 F-95.495703000000006
-tp87
+tp84
 s(V208 e 10th st, houston (TX)
-p88
-tp89
+p85
+tp86
 (F29.788640999999998
 F-95.395910999999998
-tp90
+tp87
 s(V2502 gostic, houston (TX)
-p91
-tp92
+p88
+tp89
 (F29.809000000000001
 F-95.391229999999993
-tp93
+tp90
 s(V2315 droxford dr, houston (TX)
-p94
-tp95
+p91
+tp92
 (F29.798532000000002
 F-95.440673000000004
-tp96
+tp93
 s(V9 azalea trail, bellaire (TX)
-p97
-tp98
+p94
+tp95
 (F29.700467
 F-95.46002
-tp99
-s(V606 w 28th st, houston (TX)
-p100
-tp101
-(F29.811644999999999
-F-95.408540000000002
-tp102
+tp96
 s(V3245 maxroy, houston (TX)
-p103
-tp104
+p97
+tp98
 (F29.787362000000002
 F-95.430803999999995
-tp105
+tp99
 s(V4902 valerie st, bellaire (TX)
-p106
-tp107
+p100
+tp101
 (F29.694230999999998
 F-95.463425999999998
-tp108
+tp102
 s(V4520 holt, bellaire (TX)
-p109
-tp110
+p103
+tp104
 (F29.692488999999998
 F-95.453440000000001
-tp111
+tp105
 s(V801 w 16th st, houston (TX)
-p112
-tp113
+p106
+tp107
 (F29.799975
 F-95.412383000000005
-tp114
+tp108
 s(V8938 concho st, houston (TX)
-p115
-tp116
+p109
+tp110
 (F29.692748000000002
 F-95.542361999999997
-tp117
+tp111
 s(V1424 dorothy, houston (TX)
-p118
-tp119
+p112
+tp113
 (F29.796897999999999
 F-95.409184999999994
-tp120
+tp114
 s(V5939 turtle beach lane, houston (TX)
-p121
-tp122
+p115
+tp116
 (F29.716128000000001
 F-95.508275999999995
-tp123
+tp117
 s(V3631 aberdeen, houston (TX)
-p124
-tp125
+p118
+tp119
 (F29.697732999999999
 F-95.433029000000005
-tp126
+tp120
 s(V4428 holt st, bellaire (TX)
-p127
-tp128
+p121
+tp122
 (F29.692319999999999
 F-95.450478000000004
-tp129
+tp123
 s(V2207 oxford st, houston (TX)
-p130
-tp131
+p124
+tp125
 (F29.806384999999999
 F-95.392633000000004
-tp132
+tp126
 s(V5010 imogene st, houston (TX)
-p133
-tp134
+p127
+tp128
 (F29.682907
 F-95.466037999999998
-tp135
+tp129
 s(V1302 seaspray court, houston (TX)
-p136
-tp137
+p130
+tp131
 (F29.793412
 F-95.435580000000002
-tp138
+tp132
 s(V7731 barberton dr, houston (TX)
-p139
-tp140
+p133
+tp134
 (F29.695924999999999
 F-95.523651000000001
-tp141
+tp135
 s(V3506 gannett st, houston (TX)
-p142
-tp143
+p136
+tp137
 (F29.688468
 F-95.429597000000001
-tp144
+tp138
 s(S'StMainer and St, Houston TX'
-p145
-tp146
+p139
+tp140
 (F37.0625
 F-95.677068000000006
-tp147
+tp141
 s(V1118 waverly st, houston (TX)
-p148
-tp149
+p142
+tp143
 (F29.791174000000002
 F-95.404151999999996
-tp150
+tp144
 s(V3733 bellefontaine, houston (TX)
-p151
-tp152
+p145
+tp146
 (F29.703441000000002
 F-95.435267999999994
-tp153
+tp147
 s(V322 w 24th st, houston (TX)
-p154
-tp155
+p148
+tp149
 (F29.807701999999999
 F-95.402569999999997
-tp156
+tp150
 s(V9615 hendon ln, houston (TX)
-p157
-tp158
+p151
+tp152
 (F29.695257000000002
 F-95.551649999999995
-tp159
+tp153
 s(S'Weslayan St and University Blvd, Houston TX'
-p160
-tp161
+p154
+tp155
 (F29.714528000000001
 F-95.441146000000003
-tp162
+tp156
 s(V108 cherrywood st, bellaire (TX)
-p163
-tp164
+p157
+tp158
 (F29.695212999999999
 F-95.465153000000001
-tp165
+tp159
 s(V4910 maple, bellaire (TX)
-p166
-tp167
+p160
+tp161
 (F29.691473999999999
 F-95.464308000000003
-tp168
+tp162
 s(V2248 columbia, houston (TX)
-p169
-tp170
+p163
+tp164
 (F29.807115
 F-95.393186
-tp171
+tp165
 s(V4700 holly st, bellaire (TX)
-p172
-tp173
+p166
+tp167
 (F29.693373000000001
 F-95.459727000000001
-tp174
+tp168
 s(V2706 glen haven blvd, houston (TX)
-p175
-tp176
+p169
+tp170
 (F29.702190000000002
 F-95.420434999999998
-tp177
+tp171
 s(V4617 laurel st, bellaire (TX)
-p178
-tp179
+p172
+tp173
 (F29.703264999999998
 F-95.457966999999996
-tp180
+tp174
 s(V4808 bellaire blvd, bellaire (TX)
-p181
-tp182
+p175
+tp176
 (F29.706325
 F-95.462929000000003
-tp183
+tp177
 s(V1519 waverly st, houston (TX)
-p184
-tp185
+p178
+tp179
 (F29.798849000000001
 F-95.404940999999994
-tp186
+tp180
 s(V1021 w 16th, houston (TX)
-p187
-tp188
+p181
+tp182
 (F29.799807000000001
 F-95.416616000000005
-tp189
+tp183
 s(V901 21st, houston (TX)
-p190
-tp191
+p184
+tp185
 (F29.805043999999999
 F-95.414259999999999
-tp192
+tp186
 s(V1544 dian st, houston (TX)
-p193
-tp194
+p187
+tp188
 (F29.799482000000001
 F-95.413809999999998
-tp195
+tp189
 s(V3106 murworth dr, houston (TX)
-p196
-tp197
+p190
+tp191
 (F29.686171000000002
 F-95.425873999999993
-tp198
+tp192
 s(V1147 ashland, houston (TX)
-p199
-tp200
+p193
+tp194
 (F29.792176999999999
 F-95.403705000000002
-tp201
+tp195
 s(V8414 neff st, houston (TX)
-p202
-tp203
+p196
+tp197
 (F29.701673
 F-95.533733999999995
-tp204
+tp198
 s(V1318 foxwood rd, houston (TX)
-p205
-tp206
+p199
+tp200
 (F29.794114
 F-95.434494000000001
-tp207
+tp201
 s(V8027 triola, houston (TX)
-p208
-tp209
+p202
+tp203
 (F29.697104
 F-95.527275000000003
-tp210
+tp204
 s(S'FwyBuffalo and Speedway, Houston TX'
-p211
-tp212
+p205
+tp206
 (F29.859501000000002
 F-95.396793000000002
-tp213
+tp207
 s(V9303 Concourse Dr., Houston (TX)
-p214
-tp215
+p208
+tp209
 (F29.683947
 F-95.555308999999994
-tp216
+tp210
 s(V1029 herkimer st, houston (TX)
-p217
-tp218
+p211
+tp212
 (F29.790061000000001
 F-95.406217999999996
-tp219
+tp213
 s(V6123 claridge dr, houston (TX)
-p220
-tp221
+p214
+tp215
 (F29.661137
 F-95.499458000000004
-tp222
+tp216
 s(V9407 brooding oak, houston (TX)
-p223
-tp224
+p217
+tp218
 (F29.676677000000002
 F-95.498717999999997
-tp225
+tp219
 s(S'University Blvd and Buffalo Speedway, Houston TX'
-p226
-tp227
+p220
+tp221
 (F29.714977999999999
 F-95.427655999999999
-tp228
+tp222
 s(S'Scott St and Mainer St, Houston TX'
-p229
-tp230
+p223
+tp224
 (F29.683130999999999
 F-95.365893999999997
-tp231
+tp225
 s(S'77021.csvSouth and FwyYellowstone, Houston TX'
-p232
-tp233
+p226
+tp227
 (F37.0625
 F-95.677068000000006
-tp234
+tp228
 s(V1222 nicholson, houston (TX)
-p235
-tp236
+p229
+tp230
 (F29.792914
 F-95.405331000000004
-tp237
+tp231
 s(V10103 fondren, houston (TX)
-p238
-tp239
+p232
+tp233
 (F29.668986
 F-95.507907000000003
-tp240
+tp234
 s(V5643 cheena, houston (TX)
-p241
-tp242
+p235
+tp236
 (F29.668415
 F-95.485071000000005
-tp243
+tp237
 s(V4606 laurel st, bellaire (TX)
-p244
-tp245
+p238
+tp239
 (F29.703816
 F-95.456204
-tp246
+tp240
 s(V8939 concho st., houston (TX)
-p247
-tp248
+p241
+tp242
 (F29.692257999999999
 F-95.542437000000007
-tp249
+tp243
 s(S'Rice Blvd and S Shepherd Dr, Houston TX'
-p250
-tp251
+p244
+tp245
 (F29.718540999999998
 F-95.408966000000007
-tp252
+tp246
 s(V1011 alexander, houston (TX)
-p253
-tp254
+p247
+tp248
 (F29.789162999999999
 F-95.408226999999997
-tp255
+tp249
 s(V8306 ashcroft dr, houston (TX)
-p256
-tp257
+p250
+tp251
 (F29.689162
 F-95.490790000000004
-tp258
+tp252
 s(V7119 harmony cv, houston (TX)
-p259
-tp260
+p253
+tp254
 (F29.714020000000001
 F-95.507526999999996
-tp261
+tp255
 s(V5330 wigton, houston (TX)
-p262
-tp263
+p256
+tp257
 (F29.670261
 F-95.474885
-tp264
+tp258
 s(V9 prospect place, bellaire (TX)
-p265
-tp266
+p259
+tp260
 (F29.697102999999998
 F-95.483711999999997
-tp267
+tp261
 s(V1810 tannehill, houston (TX)
-p268
-tp269
+p262
+tp263
 (F29.798995999999999
 F-95.432040000000001
-tp270
+tp264
 s(V633 West 17th, Houston (TX)
-p271
-tp272
+p265
+tp266
 (F29.801020999999999
 F-95.409384000000003
-tp273
+tp267
+s(S'N Shepherd Dr and W 20th St, Houston TX'
+p268
+tp269
+(F29.803809999999999
+F-95.410149000000004
+tp270
 s(V5208 beech, bellaire (TX)
-p274
-tp275
+p271
+tp272
 (F29.710874
 F-95.471232000000001
-tp276
+tp273
 s(V7114 captain dr, houston (TX)
-p277
-tp278
+p274
+tp275
 (F29.701930999999998
 F-95.542187999999996
-tp279
+tp276
 s(V904 20th st, houston (TX)
-p280
-tp281
+p277
+tp278
 (F29.803455
 F-95.414556000000005
-tp282
+tp279
 s(V8927 tanager st, houston (TX)
-p283
-tp284
+p280
+tp281
 (F29.688628999999999
 F-95.541741999999999
-tp285
+tp282
 s(V1723 w 14th b, houston (TX)
-p286
-tp287
+p283
+tp284
 (F29.796068999999999
 F-95.413809000000001
-tp288
+tp285
 s(V10117 bassoon dr, houston (TX)
-p289
-tp290
+p286
+tp287
 (F29.671721999999999
 F-95.445742999999993
-tp291
+tp288
 s(V4424 darsey, bellaire (TX)
-p292
-tp293
+p289
+tp290
 (F29.695126999999999
 F-95.450354000000004
-tp294
+tp291
 s(V934 w 22nd, houston (TX)
-p295
-tp296
+p292
+tp293
 (F29.805603999999999
 F-95.415711000000002
-tp297
+tp294
 s(V7319 redding road, houston (TX)
-p298
-tp299
+p295
+tp296
 (F29.69821
 F-95.535805999999994
-tp300
+tp297
 s(S'Beechnut St and S Rice Ave, Houston TX'
-p301
-tp302
+p298
+tp299
 (F29.689226000000001
 F-95.467563999999996
-tp303
+tp300
 s(V1424 26th st, houston (TX)
-p304
-tp305
+p301
+tp302
 (F29.809480000000001
 F-95.425172000000003
-tp306
+tp303
 s(S'W Loop Fwy and Beechnut St, Houston TX'
-p307
-tp308
+p304
+tp305
 (F29.689302000000001
 F-95.459446
-tp309
+tp306
 s(V4427 benning, houston (TX)
-p310
-tp311
+p307
+tp308
 (F29.656784999999999
 F-95.451774
-tp312
+tp309
 s(V323 e 28th st, houston (TX)
-p313
-tp314
+p310
+tp311
 (F29.812473000000001
 F-95.395083
-tp315
+tp312
 s(V811 le green st, houston (TX)
-p316
-tp317
+p313
+tp314
 (F29.798736999999999
 F-95.389285000000001
-tp318
+tp315
 s(V1208 ashland st, houston (TX)
-p319
-tp320
+p316
+tp317
 (F29.792831
 F-95.403092999999998
-tp321
+tp318
 s(V801 atwell st, bellaire (TX)
-p322
-tp323
+p319
+tp320
 (F29.698132000000001
 F-95.481633000000002
-tp324
+tp321
 s(V4709 sunburst/bellaire, bellaire (TX)
-p325
-tp326
+p322
+tp323
 (F29.719733000000002
 F-95.460881999999998
-tp327
+tp324
 s(V4517 sunburst, bellaire (TX)
-p328
-tp329
+p325
+tp326
 (F29.719640999999999
 F-95.453258000000005
-tp330
+tp327
 s(V5112 evergreen st, bellaire (TX)
-p331
-tp332
+p328
+tp329
 (F29.698687
 F-95.469254000000006
-tp333
+tp330
 s(V4507 maple st, bellaire (TX)
-p334
-tp335
+p331
+tp332
 (F29.691092000000001
 F-95.451980000000006
-tp336
+tp333
 s(V4530 bellaire blvd, bellaire (TX)
-p337
-tp338
+p334
+tp335
 (F29.706178999999999
 F-95.454116999999997
-tp339
+tp336
 s(V9231 Linkmeadow, Houston (TX)
-p340
-tp341
+p337
+tp338
 (F29.680415
 F-95.435294999999996
-tp342
+tp339
 s(V6239 s. braeswood blvd, houston (TX)
-p343
-tp344
+p340
+tp341
 (F29.676601000000002
 F-95.502122999999997
-tp345
+tp342
 s(V1542 lawrence st, houston (TX)
-p346
-tp347
+p343
+tp344
 (F29.799333000000001
 F-95.407405999999995
-tp348
+tp345
 s(V7134 turtle lagoon row, houston (TX)
-p349
-tp350
+p346
+tp347
 (F29.716557999999999
 F-95.509178000000006
-tp351
+tp348
 s(V5118 aspen, bellaire (TX)
-p352
-tp353
+p349
+tp350
 (F29.701397
 F-95.469943000000001
-tp354
+tp351
 s(V811 west 24th st, houston (TX)
-p355
-tp356
+p352
+tp353
 (F29.808105000000001
 F-95.412851000000003
-tp357
+tp354
 s(V429 w 24th st, houston (TX)
-p358
-tp359
+p355
+tp356
 (F29.808219000000001
 F-95.404977000000002
-tp360
+tp357
 s(V2314 brookmere dr, houston (TX)
-p361
-tp362
+p358
+tp359
 (F29.806491000000001
 F-95.440613999999997
-tp363
+tp360
 s(V7207 tours st, houston (TX)
-p364
-tp365
+p361
+tp362
 (F29.700386999999999
 F-95.523773000000006
-tp366
+tp363
 s(S'N Braeswood Blvd and Hillcroft St, Houston TX'
+p364
+tp365
+S'ead>\n<meta http-equiv="content-type" content="text/html; charset=utf-8"/>\n<title>Sorry...</title>\n<style>body { font-family: verdana, arial, sans-serif; background-color: #fff; color: #000; }</style>\n</head>\n<body>\n<div><table>\n<tr><td><b><font face=times color=#0039b6 size=10>G</font><font face=times color=#c41200 size=10>o</font><font face=times color=#f3c518 size=10>o</font><font face=times color=#0039b6 size=10>g</font><font face=times color=#30a72f size=10>l</font><font face=times color=#c41200 size=10>e</font></b></td>\n<td style="text-align: left; vertical-align: bottom; padding-bottom: 15px; width: 50%">\n<div style="border-bottom: 1px solid #dfdfdf;">Sorry...</div></td></tr>\n</table></div>\n<div style="margin-left: 4em;">\n<h1>We\'re sorry...</h1>\n<p>... but your computer or network may be sending automated queries.\nTo protect our users, we can\'t process your request right now.\n</p>\n\n<form action="Captcha" method="get">\n<input type="hidden" name="continue" value="http://maps.google.com/?q=N%20Braeswood%20Blvd%20and%20Hillcroft%20St%2C%20Houston%20TX&amp;output=js">\n<input type="hidden" name="id" value="12914886909259299519">\n<table cellpadding="4" cellspacing="0" border="0">\n<tr><td valign="top" align="left">\n<font color="#aa1002">\n<b>To continue searching, please type the characters you see below:</b>\n</font>\n<input type="text" name="captcha" value="" id="captcha" size="12">\n<input type="submit" name="submit" value="I\'m human!">\n</td></tr>\n<tr><td>\n<div align="right">\n<img src="/sorry/image?id=12914886909259299519&amp;hl=en" border="1" alt="Please enable images on your browser.">\n</div></td></tr>\n</table>\n</form>\n\n\n</div>\n<div style="margin-left: 4em;">\nSee <a href="http://www.google.com/support/bin/answer.py?answer=86640">Google Help</a> for more information.<br/><br/></div>\n<div style="text-align: center; border-top: 1px solid #dfdfdf;">\n&copy; 2009 Google - <a href="http://www.google.com">Google Home</a>\n</div>\n</body>\n</html>'
+p366
+s(V1225 23rd st, houston (TX)
 p367
 tp368
-S'ead>\n<meta http-equiv="content-type" content="text/html; charset=utf-8"/>\n<title>Sorry...</title>\n<style>body { font-family: verdana, arial, sans-serif; background-color: #fff; color: #000; }</style>\n</head>\n<body>\n<div><table>\n<tr><td><b><font face=times color=#0039b6 size=10>G</font><font face=times color=#c41200 size=10>o</font><font face=times color=#f3c518 size=10>o</font><font face=times color=#0039b6 size=10>g</font><font face=times color=#30a72f size=10>l</font><font face=times color=#c41200 size=10>e</font></b></td>\n<td style="text-align: left; vertical-align: bottom; padding-bottom: 15px; width: 50%">\n<div style="border-bottom: 1px solid #dfdfdf;">Sorry...</div></td></tr>\n</table></div>\n<div style="margin-left: 4em;">\n<h1>We\'re sorry...</h1>\n<p>... but your computer or network may be sending automated queries.\nTo protect our users, we can\'t process your request right now.\n</p>\n\n<form action="Captcha" method="get">\n<input type="hidden" name="continue" value="http://maps.google.com/?q=N%20Braeswood%20Blvd%20and%20Hillcroft%20St%2C%20Houston%20TX&amp;output=js">\n<input type="hidden" name="id" value="12914886909259299519">\n<table cellpadding="4" cellspacing="0" border="0">\n<tr><td valign="top" align="left">\n<font color="#aa1002">\n<b>To continue searching, please type the characters you see below:</b>\n</font>\n<input type="text" name="captcha" value="" id="captcha" size="12">\n<input type="submit" name="submit" value="I\'m human!">\n</td></tr>\n<tr><td>\n<div align="right">\n<img src="/sorry/image?id=12914886909259299519&amp;hl=en" border="1" alt="Please enable images on your browser.">\n</div></td></tr>\n</table>\n</form>\n\n\n</div>\n<div style="margin-left: 4em;">\nSee <a href="http://www.google.com/support/bin/answer.py?answer=86640">Google Help</a> for more information.<br/><br/></div>\n<div style="text-align: center; border-top: 1px solid #dfdfdf;">\n&copy; 2009 Google - <a href="http://www.google.com">Google Home</a>\n</div>\n</body>\n</html>'
-p369
-s(V1225 23rd st, houston (TX)
-p370
-tp371
 (F29.807016000000001
 F-95.420742000000004
-tp372
+tp369
 s(V5731 kuldell drive, houston (TX)
-p373
-tp374
+p370
+tp371
 (F29.680858000000001
 F-95.490296000000001
-tp375
+tp372
 s(V6111 rollingbrook, houston (TX)
-p376
-tp377
+p373
+tp374
 (F29.663678999999998
 F-95.498823000000002
-tp378
+tp375
 s(V5206 huisache st, bellaire (TX)
-p379
-tp380
+p376
+tp377
 (F29.700489999999999
 F-95.471279999999993
-tp381
+tp378
 s(V913 yale, houston (TX)
-p382
-tp383
+p379
+tp380
 (F29.787704000000002
 F-95.399120999999994
-tp384
+tp381
 s(V4316 bellaire blvd, bellaire (TX)
-p385
-tp386
+p382
+tp383
 (F29.706412
 F-95.449191999999996
-tp387
+tp384
 s(V1111 heights blvd, houston (TX)
-p388
-tp389
+p385
+tp386
 (F29.791249000000001
 F-95.398172000000002
-tp390
+tp387
 s(V9603 oregano circle, houston (TX)
-p391
-tp392
+p388
+tp389
 (F29.694575
 F-95.551162000000005
-tp393
+tp390
 s(V1013 w 16th, houston (TX)
-p394
-tp395
+p391
+tp392
 (F29.800132000000001
 F-95.416621000000006
-tp396
+tp393
 s(V5434 imogene st, houston (TX)
-p397
-tp398
+p394
+tp395
 (F29.683720000000001
 F-95.481320999999994
-tp399
+tp396
 s(V1042 24th, houston (TX)
-p400
-tp401
+p397
+tp398
 (F29.807403000000001
 F-95.417805000000001
-tp402
+tp399
 s(V3514 windmill elm street, houston (TX)
-p403
-tp404
+p400
+tp401
 (F29.788395000000001
 F-95.439224999999993
-tp405
+tp402
 s(V10627 sw sandpiper, houston (TX)
-p406
-tp407
+p403
+tp404
 (F29.665709
 F-95.504130000000004
-tp408
+tp405
 s(S'W Holcombe Blvd and Buffalo Speedway, Houston TX'
-p409
-tp410
+p406
+tp407
 (F29.705997
 F-95.427503999999999
-tp411
+tp408
 s(V1410 lawrence st, houston (TX)
-p412
-tp413
+p409
+tp410
 (F29.796513999999998
 F-95.407348999999996
-tp414
+tp411
 s(V10127 glengate, houston (TX)
-p415
-tp416
+p412
+tp413
 (F29.681324
 F-95.554912000000002
-tp417
+tp414
 s(V1106 nicholson st, houston (TX)
-p418
-tp419
+p415
+tp416
 (F29.790917
 F-95.405258000000003
-tp420
+tp417
 s(V1439 waverly, houston (TX)
-p421
-tp422
+p418
+tp419
 (F29.797654999999999
 F-95.404917999999995
-tp423
+tp420
 s(V4620 huisache st, bellaire (TX)
-p424
-tp425
+p421
+tp422
 (F29.700610999999999
 F-95.458268000000004
-tp426
+tp423
 s(V1405 n shepherd dr, houston (TX)
-p427
-tp428
+p424
+tp425
 (F29.796368000000001
 F-95.410278000000005
-tp429
+tp426
 s(V9802 abigail grace ct, houston (TX)
-p430
-tp431
+p427
+tp428
 (F29.676791999999999
 F-95.433995999999993
-tp432
+tp429
 s(V2617 s glen haven blvd, houston (TX)
-p433
-tp434
+p430
+tp431
 (F29.700596999999998
 F-95.419516999999999
+tp432
+s(V118 e 26th, houston (TX)
+p433
+tp434
+(F29.810312
+F-95.397678999999997
 tp435
 s(V5228 mimosa, bellaire (TX)
 p436
@@ -952,11 +952,11 @@ tp476
 (F29.682953999999999
 F-95.555070000000001
 tp477
-s(V1032 alexander st, houston (TX)
+s(V2504 brinkman st, houston (TX)
 p478
 tp479
-(F29.789823999999999
-F-95.407652999999996
+(F29.809111999999999
+F-95.414310999999998
 tp480
 s(S'North Freeway and Katy Freeway, Houston TX'
 p481
@@ -1174,11 +1174,11 @@ tp587
 (F37.0625
 F-95.677068000000006
 tp588
-s(V4524 palmetto st, bellaire (TX)
+s(V1516 alexander st, houston (TX)
 p589
 tp590
-(F29.711995999999999
-F-95.453756999999996
+(F29.798563999999999
+F-95.408224000000004
 tp591
 s(V5443 beechnut st, houston (TX)
 p592
@@ -1516,364 +1516,364 @@ tp758
 (F29.673178
 F-95.500716999999995
 tp759
-s(V3403 Deal St, Houston (TX)
+s(V8314 quebec, houston (TX)
 p760
 tp761
-(F29.688777999999999
-F-95.427522999999994
+(F29.688763000000002
+F-95.491705999999994
 tp762
-s(V4305 valerie st, bellaire (TX)
+s(V3403 Deal St, Houston (TX)
 p763
 tp764
-(F29.694061999999999
-F-95.447664000000003
+(F29.688777999999999
+F-95.427522999999994
 tp765
-s(V2175 bevis st, houston (TX)
+s(V4305 valerie st, bellaire (TX)
 p766
 tp767
-(F29.805410999999999
-F-95.422591999999995
+(F29.694061999999999
+F-95.447664000000003
 tp768
-s(V4807 tamarisk st, bellaire (TX)
+s(V2175 bevis st, houston (TX)
 p769
 tp770
-(F29.715845999999999
-F-95.462478000000004
+(F29.805410999999999
+F-95.422591999999995
 tp771
-s(V2016 w 14, houston (TX)
+s(V4807 tamarisk st, bellaire (TX)
 p772
 tp773
-(F29.795294999999999
-F-95.420743000000002
+(F29.715845999999999
+F-95.462478000000004
 tp774
-s(V6222 cheena dr, houston (TX)
+s(V2016 w 14, houston (TX)
 p775
 tp776
-(F29.668718999999999
-F-95.501327000000003
+(F29.795294999999999
+F-95.420743000000002
 tp777
-s(V2324 beall, houston (TX)
+s(V6222 cheena dr, houston (TX)
 p778
 tp779
-(F29.807493999999998
-F-95.417959999999994
+(F29.668718999999999
+F-95.501327000000003
 tp780
-s(V5105 valerie st, bellaire (TX)
+s(V2324 beall, houston (TX)
 p781
 tp782
-(F29.693255000000001
-F-95.468699999999998
+(F29.807493999999998
+F-95.417959999999994
 tp783
-s(V9141 buffalo speedway, houston (TX)
+s(V5105 valerie st, bellaire (TX)
 p784
 tp785
-(F29.686344999999999
-F-95.426215999999997
+(F29.693255000000001
+F-95.468699999999998
 tp786
-s(V5730 indigo st, houston (TX)
+s(V9141 buffalo speedway, houston (TX)
 p787
 tp788
-(F29.686084000000001
-F-95.491986999999995
+(F29.686344999999999
+F-95.426215999999997
 tp789
-s(V6515 Grovewood, Houston (TX)
+s(V5730 indigo st, houston (TX)
 p790
 tp791
-(F29.793011
-F-95.430950999999993
+(F29.686084000000001
+F-95.491986999999995
 tp792
-s(V5202 Beech, Bellaire (TX)
+s(V6515 Grovewood, Houston (TX)
 p793
 tp794
-(F29.710878999999998
-F-95.470759000000001
+(F29.793011
+F-95.430950999999993
 tp795
-s(V9210 bassoon dr, houston (TX)
+s(V5202 Beech, Bellaire (TX)
 p796
 tp797
-(F29.682797999999998
-F-95.446402000000006
+(F29.710878999999998
+F-95.470759000000001
 tp798
-s(V5312 evergreen, bellaire (TX)
+s(V9210 bassoon dr, houston (TX)
 p799
 tp800
-(F29.698650000000001
-F-95.473337000000001
+(F29.682797999999998
+F-95.446402000000006
 tp801
-s(V3019 heritage creek terr, houston (TX)
+s(V5312 evergreen, bellaire (TX)
 p802
 tp803
-(F29.792349000000002
-F-95.431903000000005
+(F29.698650000000001
+F-95.473337000000001
 tp804
-s(V3727 Grennoch, Houston (TX)
+s(V3019 heritage creek terr, houston (TX)
 p805
 tp806
-(F29.695136000000002
-F-95.434997999999993
+(F29.792349000000002
+F-95.431903000000005
 tp807
-s(V1044 25th st unit b, houston (TX)
+s(V3727 Grennoch, Houston (TX)
 p808
 tp809
-(F29.808661000000001
-F-95.417486999999994
+(F29.695136000000002
+F-95.434997999999993
 tp810
-s(V1227 rutland st, houston (TX)
+s(V1044 25th st unit b, houston (TX)
 p811
 tp812
-(F29.793495
-F-95.401546999999994
+(F29.808661000000001
+F-95.417486999999994
 tp813
-s(V4303 darsey st, bellaire (TX)
+s(V1227 rutland st, houston (TX)
 p814
 tp815
-(F29.694755000000001
-F-95.447671999999997
+(F29.793495
+F-95.401546999999994
 tp816
-s(V117 w 10th st, houston (TX)
+s(V4303 darsey st, bellaire (TX)
 p817
 tp818
-(F29.789307999999998
-F-95.398495999999994
+(F29.694755000000001
+F-95.447671999999997
 tp819
-s(V435 w 23rd st, houston (TX)
+s(V117 w 10th st, houston (TX)
 p820
 tp821
-(F29.807193999999999
-F-95.405229000000006
+(F29.789307999999998
+F-95.398495999999994
 tp822
-s(V3122 underwood st., houston (TX)
+s(V435 w 23rd st, houston (TX)
 p823
 tp824
-(F29.699967999999998
-F-95.427071999999995
+(F29.807193999999999
+F-95.405229000000006
 tp825
-s(V1532 dorothy st, houston (TX)
+s(V3122 underwood st., houston (TX)
 p826
 tp827
-(F29.7989
-F-95.408991999999998
+(F29.699967999999998
+F-95.427071999999995
 tp828
-s(V4130 woodhaven st, houston (TX)
+s(V1532 dorothy st, houston (TX)
 p829
 tp830
-(F29.665769000000001
-F-95.443313000000003
+(F29.7989
+F-95.408991999999998
 tp831
-s(V2614 haverhill, houston (TX)
+s(V4130 woodhaven st, houston (TX)
 p832
 tp833
-(F29.799579000000001
-F-95.446228000000005
+(F29.665769000000001
+F-95.443313000000003
 tp834
-s(V10 azalea trail ln, bellaire (TX)
+s(V2614 haverhill, houston (TX)
 p835
 tp836
-(F29.70046
-F-95.460408000000001
+(F29.799579000000001
+F-95.446228000000005
 tp837
-s(V1511 w 22nd st, houston (TX)
+s(V10 azalea trail ln, bellaire (TX)
 p838
 tp839
-(F29.805952999999999
-F-95.426398000000006
+(F29.70046
+F-95.460408000000001
 tp840
-s(V5111 beechnut, houston (TX)
+s(V1511 w 22nd st, houston (TX)
 p841
 tp842
-(F29.688811000000001
-F-95.468672999999995
+(F29.805952999999999
+F-95.426398000000006
 tp843
-s(V1904 w 14th, houston (TX)
+s(V5111 beechnut, houston (TX)
 p844
 tp845
-(F29.795300000000001
-F-95.417102999999997
+(F29.688811000000001
+F-95.468672999999995
 tp846
-s(S'BlvdScott and StMainer, Houston TX'
+s(V1904 w 14th, houston (TX)
 p847
 tp848
-(F37.0625
-F-95.677068000000006
+(F29.795300000000001
+F-95.417102999999997
 tp849
-s(V9706 bevlyn, houston (TX)
+s(S'BlvdScott and StMainer, Houston TX'
 p850
 tp851
-(F29.681125000000002
-F-95.430989999999994
+(F37.0625
+F-95.677068000000006
 tp852
-s(V9710 mariposa st, houston (TX)
+s(V9706 bevlyn, houston (TX)
 p853
 tp854
-(F29.681056999999999
-F-95.428961000000001
+(F29.681125000000002
+F-95.430989999999994
 tp855
-s(V8923 s rice, houston (TX)
+s(V9710 mariposa st, houston (TX)
 p856
 tp857
-(F29.680904000000002
-F-95.467482000000004
+(F29.681056999999999
+F-95.428961000000001
 tp858
-s(V724 e. 19th st, houston (TX)
+s(V8923 s rice, houston (TX)
 p859
 tp860
-(F29.802799
-F-95.389578
+(F29.680904000000002
+F-95.467482000000004
 tp861
-s(S'Braeswood Blvd and Stella Link Rd, Houston TX'
+s(V724 e. 19th st, houston (TX)
 p862
 tp863
-(F29.691731999999998
-F-95.440161000000003
+(F29.802799
+F-95.389578
 tp864
-s(V1516 alexander st, houston (TX)
+s(S'Braeswood Blvd and Stella Link Rd, Houston TX'
 p865
 tp866
-(F29.798563999999999
-F-95.408224000000004
+(F29.691731999999998
+F-95.440161000000003
 tp867
-s(S'Buffalo Speedway and South Shepherd Drive, Houston TX'
+s(V4524 palmetto st, bellaire (TX)
 p868
 tp869
-(F29.722774000000001
-F-95.420603999999997
+(F29.711995999999999
+F-95.453756999999996
 tp870
-s(V830 w 18th, houston (TX)
+s(S'Buffalo Speedway and South Shepherd Drive, Houston TX'
 p871
 tp872
-(F29.801439999999999
-F-95.413521000000003
+(F29.722774000000001
+F-95.420603999999997
 tp873
-s(V7119 laguna villas, houston (TX)
+s(V830 w 18th, houston (TX)
 p874
 tp875
-(F29.716795000000001
-F-95.508835000000005
+(F29.801439999999999
+F-95.413521000000003
 tp876
-s(V416 e 28th, houston (TX)
+s(V7119 laguna villas, houston (TX)
 p877
 tp878
-(F29.812227
-F-95.393844999999999
+(F29.716795000000001
+F-95.508835000000005
 tp879
-s(V3606 blue bonnet blvd, houston (TX)
+s(V416 e 28th, houston (TX)
 p880
 tp881
-(F29.700707000000001
-F-95.431517999999997
+(F29.812227
+F-95.393844999999999
 tp882
-s(V6211 dumfries dr, houston (TX)
+s(V3606 blue bonnet blvd, houston (TX)
 p883
 tp884
-(F29.670704000000001
-F-95.500707000000006
+(F29.700707000000001
+F-95.431517999999997
 tp885
-s(V9019 troulon, houston (TX)
+s(V6211 dumfries dr, houston (TX)
 p886
 tp887
-(F29.689439
-F-95.543165000000002
+(F29.670704000000001
+F-95.500707000000006
 tp888
-s(V6230 lymbar dr, houston (TX)
+s(V9019 troulon, houston (TX)
 p889
 tp890
-(F29.667887
-F-95.501746999999995
+(F29.689439
+F-95.543165000000002
 tp891
-s(V1004 herkimer, houston (TX)
+s(V6230 lymbar dr, houston (TX)
 p892
 tp893
-(F29.788931999999999
-F-95.405929
+(F29.667887
+F-95.501746999999995
 tp894
-s(V1026 16th, houston (TX)
+s(V1004 herkimer, houston (TX)
 p895
 tp896
-(F29.799340999999998
-F-95.417017000000001
+(F29.788931999999999
+F-95.405929
 tp897
-s(V3506 blue bonnet blvd, houston (TX)
+s(V1026 16th, houston (TX)
 p898
 tp899
-(F29.700780999999999
-F-95.429952
+(F29.799340999999998
+F-95.417017000000001
 tp900
-s(V4602 evergreen, bellaire (TX)
+s(V3506 blue bonnet blvd, houston (TX)
 p901
 tp902
-(F29.698823999999998
-F-95.455770999999999
+(F29.700780999999999
+F-95.429952
 tp903
-s(V2431 brookmere dr, houston (TX)
+s(V4602 evergreen, bellaire (TX)
 p904
 tp905
-(F29.805999
-F-95.443650000000005
+(F29.698823999999998
+F-95.455770999999999
 tp906
-s(V1535 herkimer st, houston (TX)
+s(V2431 brookmere dr, houston (TX)
 p907
 tp908
-(F29.799202000000001
-F-95.406581000000003
+(F29.805999
+F-95.443650000000005
 tp909
-s(V8006 carvel ln, houston (TX)
+s(V1535 herkimer st, houston (TX)
 p910
 tp911
-(F29.696550999999999
-F-95.526390000000006
+(F29.799202000000001
+F-95.406581000000003
 tp912
-s(V1106 howard ln, bellaire (TX)
+s(V8006 carvel ln, houston (TX)
 p913
 tp914
-(F29.719221999999998
-F-95.450256999999993
+(F29.696550999999999
+F-95.526390000000006
 tp915
-s(V5935 turtle beach ln, houston (TX)
+s(V1106 howard ln, bellaire (TX)
 p916
 tp917
-(F29.71622
-F-95.508278000000004
+(F29.719221999999998
+F-95.450256999999993
 tp918
-s(V1023 w 15th 1/2 st, houston (TX)
+s(V5935 turtle beach ln, houston (TX)
 p919
 tp920
-(F29.799125
-F-95.416768000000005
+(F29.71622
+F-95.508278000000004
 tp921
-s(V415 e 25th st, houston (TX)
+s(V1023 w 15th 1/2 st, houston (TX)
 p922
 tp923
-(F29.809162000000001
-F-95.393889000000001
+(F29.799125
+F-95.416768000000005
 tp924
-s(V1545 Cortlandt Street, Houston (TX)
+s(V415 e 25th st, houston (TX)
 p925
 tp926
-(F29.799499999999998
-F-95.395791000000003
+(F29.809162000000001
+F-95.393889000000001
 tp927
-s(V1705 beall, houston (TX)
+s(V1545 Cortlandt Street, Houston (TX)
 p928
 tp929
-(F29.800742
-F-95.418006000000005
+(F29.799499999999998
+F-95.395791000000003
 tp930
-s(V1220 herkimer st, houston (TX)
+s(V1705 beall, houston (TX)
 p931
 tp932
-(F29.793329
-F-95.405936999999994
+(F29.800742
+F-95.418006000000005
 tp933
-s(S'Chimney Rock Rd and S Braeswood Blvd, Houston TX'
+s(V1220 herkimer st, houston (TX)
 p934
 tp935
-Ns(V3527 aberdeen way, houston (TX)
-p936
-tp937
-(F29.697765
-F-95.430668999999995
+(F29.793329
+F-95.405936999999994
+tp936
+s(S'Chimney Rock Rd and S Braeswood Blvd, Houston TX'
+p937
 tp938
-s(V10306 bob white, houston (TX)
+Ns(V10306 bob white, houston (TX)
 p939
 tp940
 (F29.668925999999999
@@ -1945,620 +1945,620 @@ tp973
 (F29.676289000000001
 F-95.465224000000006
 tp974
-s(V3203 cloverdale st, houston (TX)
+s(V4609 willow st, bellaire (TX)
 p975
 tp976
-(F29.682976
-F-95.427451000000005
+(F29.702363999999999
+F-95.456363999999994
 tp977
-s(V6023 lymbar dr, houston (TX)
+s(V3203 cloverdale st, houston (TX)
 p978
 tp979
-(F29.667451
-F-95.496474000000006
+(F29.682976
+F-95.427451000000005
 tp980
-s(V5105 evergreen, bellaire (TX)
+s(V6023 lymbar dr, houston (TX)
 p981
 tp982
-(F29.698205000000002
-F-95.468458999999996
+(F29.667451
+F-95.496474000000006
 tp983
-s(V5419 wigton, houston (TX)
+s(V5105 evergreen, bellaire (TX)
 p984
 tp985
-(F29.669347999999999
-F-95.477869999999996
+(F29.698205000000002
+F-95.468458999999996
 tp986
-s(V1306 w 22nd st, houston (TX)
+s(V5419 wigton, houston (TX)
 p987
 tp988
-(F29.805409999999998
-F-95.422760999999994
+(F29.669347999999999
+F-95.477869999999996
 tp989
-s(V5323 rutherglenn, houston (TX)
+s(V1306 w 22nd st, houston (TX)
 p990
 tp991
-(F29.673034000000001
-F-95.474463
+(F29.805409999999998
+F-95.422760999999994
 tp992
-s(V4911 cheena dr, houston (TX)
+s(V5323 rutherglenn, houston (TX)
 p993
 tp994
-(F29.671855000000001
-F-95.462414999999993
+(F29.673034000000001
+F-95.474463
 tp995
-s(V5127 jessamine st, bellaire (TX)
+s(V4911 cheena dr, houston (TX)
 p996
 tp997
-(F29.701734999999999
-F-95.470343
+(F29.671855000000001
+F-95.462414999999993
 tp998
-s(V4612 verone, bellaire (TX)
+s(V5127 jessamine st, bellaire (TX)
 p999
 tp1000
-(F29.697913
-F-95.456924999999998
+(F29.701734999999999
+F-95.470343
 tp1001
-s(V4129 woodhaven, houston (TX)
+s(V4612 verone, bellaire (TX)
 p1002
 tp1003
-(F29.665271000000001
-F-95.443307000000004
+(F29.697913
+F-95.456924999999998
 tp1004
-s(V1239 w 22nd unit c, houston (TX)
+s(V4129 woodhaven, houston (TX)
 p1005
 tp1006
-(F29.805816
-F-95.421768
+(F29.665271000000001
+F-95.443307000000004
 tp1007
-s(V1030 16th, houston (TX)
+s(V1239 w 22nd unit c, houston (TX)
 p1008
 tp1009
-(F29.799340000000001
-F-95.417162000000005
+(F29.805816
+F-95.421768
 tp1010
-s(V8922 roos rd, houston (TX)
+s(V1030 16th, houston (TX)
 p1011
 tp1012
-(F29.700305
-F-95.542317999999995
+(F29.799340000000001
+F-95.417162000000005
 tp1013
-s(V4709 sunburst ct, bellaire (TX)
+s(V8922 roos rd, houston (TX)
 p1014
 tp1015
-(F29.719491000000001
-F-95.460875000000001
+(F29.700305
+F-95.542317999999995
 tp1016
-s(V8510 beechnut, houston (TX)
+s(V4709 sunburst ct, bellaire (TX)
 p1017
 tp1018
-(F29.692070000000001
-F-95.534012000000004
+(F29.719491000000001
+F-95.460875000000001
 tp1019
-s(V4400 CYNTHIA ST, Bellaire (TX)
+s(V8510 beechnut, houston (TX)
 p1020
 tp1021
-(F29.693743000000001
-F-95.449395999999993
+(F29.692070000000001
+F-95.534012000000004
 tp1022
-s(V4908 bellaire blvd., bellaire (TX)
+s(V4400 CYNTHIA ST, Bellaire (TX)
 p1023
 tp1024
-(F29.706289999999999
-F-95.465344999999999
+(F29.693743000000001
+F-95.449395999999993
 tp1025
-s(V905 19th st, houston (TX)
+s(V4908 bellaire blvd., bellaire (TX)
 p1026
 tp1027
-(F29.803062000000001
-F-95.414401999999995
+(F29.706289999999999
+F-95.465344999999999
 tp1028
-s(V4812 glenmont st, bellaire (TX)
+s(V905 19th st, houston (TX)
 p1029
 tp1030
-(F29.720518999999999
-F-95.463099999999997
+(F29.803062000000001
+F-95.414401999999995
 tp1031
-s(V1148 25th st #h, houston (TX)
+s(V4812 glenmont st, bellaire (TX)
 p1032
 tp1033
-(F29.808595
-F-95.419701000000003
+(F29.720518999999999
+F-95.463099999999997
 tp1034
-s(V3726 grennoch, houston (TX)
+s(V1148 25th st #h, houston (TX)
 p1035
 tp1036
-(F29.695620000000002
-F-95.435136
+(F29.808595
+F-95.419701000000003
 tp1037
-s(V1520 w 22nd, houston (TX)
+s(V3726 grennoch, houston (TX)
 p1038
 tp1039
-(F29.805420000000002
-F-95.426828
+(F29.695620000000002
+F-95.435136
 tp1040
-s(V3126 murworth, houston (TX)
+s(V1520 w 22nd, houston (TX)
 p1041
 tp1042
-(F29.686150999999999
-F-95.426731000000004
+(F29.805420000000002
+F-95.426828
 tp1043
-s(V931 w 17th st, houston (TX)
+s(V3126 murworth, houston (TX)
 p1044
 tp1045
-(F29.800833999999998
-F-95.415487999999996
+(F29.686150999999999
+F-95.426731000000004
 tp1046
-s(V5811 benning, houston (TX)
+s(V931 w 17th st, houston (TX)
 p1047
 tp1048
-(F29.658722000000001
-F-95.490260000000006
+(F29.800833999999998
+F-95.415487999999996
 tp1049
-s(V9257 buffalo speedway, houston (TX)
+s(V5811 benning, houston (TX)
 p1050
 tp1051
-(F29.685400999999999
-F-95.425548000000006
+(F29.658722000000001
+F-95.490260000000006
 tp1052
-s(V532 cascade st, bellaire (TX)
+s(V9257 buffalo speedway, houston (TX)
 p1053
 tp1054
-(F29.700240000000001
-F-95.460468000000006
+(F29.685400999999999
+F-95.425548000000006
 tp1055
-s(V7123 laguna villas, houston (TX)
+s(V532 cascade st, bellaire (TX)
 p1056
 tp1057
-(F29.716781999999998
-F-95.508922999999996
+(F29.700240000000001
+F-95.460468000000006
 tp1058
-s(S'StS and Rice, Houston TX'
+s(V7123 laguna villas, houston (TX)
 p1059
 tp1060
-(F29.722753000000001
-F-95.456044000000006
+(F29.716781999999998
+F-95.508922999999996
 tp1061
-s(V1537 blair st, houston (TX)
+s(S'StS and Rice, Houston TX'
 p1062
 tp1063
-(F29.799195000000001
-F-95.407086000000007
+(F29.722753000000001
+F-95.456044000000006
 tp1064
-s(V4401 holt street, bellaire (TX)
+s(V1537 blair st, houston (TX)
 p1065
 tp1066
-(F29.691928000000001
-F-95.449363000000005
+(F29.799195000000001
+F-95.407086000000007
 tp1067
-s(V4408 lafayette st, bellaire (TX)
+s(V2307 ella blvd, houston (TX)
 p1068
 tp1069
-(F29.691631999999998
-F-95.449676999999994
+(F29.806771999999999
+F-95.429294999999996
 tp1070
-s(V5424 braeburn dr, bellaire (TX)
+s(V4401 holt street, bellaire (TX)
 p1071
 tp1072
-(F29.696199
-F-95.484228000000002
+(F29.691928000000001
+F-95.449363000000005
 tp1073
-s(V9606 bevlyn dr, houston (TX)
+s(V4408 lafayette st, bellaire (TX)
 p1074
 tp1075
-(F29.682012
-F-95.431002000000007
+(F29.691631999999998
+F-95.449676999999994
 tp1076
-s(V7310 tours st, houston (TX)
+s(V5424 braeburn dr, bellaire (TX)
 p1077
 tp1078
-(F29.699278
-F-95.524158
+(F29.696199
+F-95.484228000000002
 tp1079
-s(S'Hillcroft St and Beechnut St, Houston TX'
+s(V9606 bevlyn dr, houston (TX)
 p1080
 tp1081
-Ns(V7138 Harmony Cove, Houston (TX)
-p1082
-tp1083
-(F29.714254
-F-95.508116000000001
+(F29.682012
+F-95.431002000000007
+tp1082
+s(V7310 tours st, houston (TX)
+p1083
 tp1084
-s(V1333 w 22nd st, houston (TX)
-p1085
-tp1086
-(F29.805976999999999
-F-95.423726000000002
+(F29.699278
+F-95.524158
+tp1085
+s(S'Hillcroft St and Beechnut St, Houston TX'
+p1086
 tp1087
-s(V1046 harvard st, houston (TX)
+Ns(V7138 Harmony Cove, Houston (TX)
 p1088
 tp1089
-(F29.790517000000001
-F-95.396072000000004
+(F29.714254
+F-95.508116000000001
 tp1090
-s(V7707 augustine dr, houston (TX)
+s(V1333 w 22nd st, houston (TX)
 p1091
 tp1092
-(F29.693553999999999
-F-95.538379000000006
+(F29.805976999999999
+F-95.423726000000002
 tp1093
-s(V4605 verone, bellaire (TX)
+s(V1046 harvard st, houston (TX)
 p1094
 tp1095
-(F29.697388
-F-95.456059999999994
+(F29.790517000000001
+F-95.396072000000004
 tp1096
-s(V322 w 22nd st, houston (TX)
+s(V7707 augustine dr, houston (TX)
 p1097
 tp1098
-(F29.805665000000001
-F-95.402368999999993
+(F29.693553999999999
+F-95.538379000000006
 tp1099
-s(V825 algregg st, houston (TX)
+s(V4605 verone, bellaire (TX)
 p1100
 tp1101
-(F29.797315000000001
-F-95.388621000000001
+(F29.697388
+F-95.456059999999994
 tp1102
-s(S'S Loop Fwy and W Loop Fwy, Houston TX'
+s(V322 w 22nd st, houston (TX)
 p1103
 tp1104
-(F29.684218999999999
-F-95.458866
+(F29.805665000000001
+F-95.402368999999993
 tp1105
-s(V309 e 25th st, houston (TX)
+s(V825 algregg st, houston (TX)
 p1106
 tp1107
-(F29.809144
-F-95.395432999999997
+(F29.797315000000001
+F-95.388621000000001
 tp1108
-s(V1017 herkimer, houston (TX)
+s(S'S Loop Fwy and W Loop Fwy, Houston TX'
 p1109
 tp1110
-(F29.789549999999998
-F-95.406370999999993
+(F29.684218999999999
+F-95.458866
 tp1111
-s(V605 e 21 st, houston (TX)
+s(V309 e 25th st, houston (TX)
 p1112
 tp1113
-(F29.805084999999998
-F-95.391966999999994
+(F29.809144
+F-95.395432999999997
 tp1114
-s(V5201 locust st, bellaire (TX)
+s(V605 e 21 st, houston (TX)
 p1115
 tp1116
-(F29.708511000000001
-F-95.470558999999994
+(F29.805084999999998
+F-95.391966999999994
 tp1117
-s(V7915 stroud dr, houston (TX)
+s(V5201 locust st, bellaire (TX)
 p1118
 tp1119
-(F29.698895
-F-95.525846999999999
+(F29.708511000000001
+F-95.470558999999994
 tp1120
-s(V1134 w 23rd, houston (TX)
+s(V7915 stroud dr, houston (TX)
 p1121
 tp1122
-(F29.806367000000002
-F-95.419815999999997
+(F29.698895
+F-95.525846999999999
 tp1123
-s(V5112 valerie, bellaire (TX)
+s(V1134 w 23rd, houston (TX)
 p1124
 tp1125
-(F29.693918
-F-95.470012999999994
+(F29.806367000000002
+F-95.419815999999997
 tp1126
-s(V1101 w 17th street, houston (TX)
+s(V5112 valerie, bellaire (TX)
 p1127
 tp1128
-(F29.801134000000001
-F-95.418412000000004
+(F29.693918
+F-95.470012999999994
 tp1129
-s(V912 w 25th #6, houston (TX)
+s(V1101 w 17th street, houston (TX)
 p1130
 tp1131
-(F29.808647000000001
-F-95.415261999999998
+(F29.801134000000001
+F-95.418412000000004
 tp1132
-s(V7127 harmony cove, houston (TX)
+s(V912 w 25th #6, houston (TX)
 p1133
 tp1134
-(F29.714017999999999
-F-95.507711
+(F29.808647000000001
+F-95.415261999999998
 tp1135
-s(S'Community Dr and Bellaire Blvd, Houston TX'
+s(V7127 harmony cove, houston (TX)
 p1136
 tp1137
-(F29.737549000000001
-F-95.54589
+(F29.714017999999999
+F-95.507711
 tp1138
-s(V4320 dorothy st, bellaire (TX)
+s(S'Community Dr and Bellaire Blvd, Houston TX'
 p1139
 tp1140
-(F29.693059999999999
-F-95.448284000000001
+(F29.737549000000001
+F-95.54589
 tp1141
-s(V6114 bankside, houston (TX)
+s(V4320 dorothy st, bellaire (TX)
 p1142
 tp1143
-(F29.663374999999998
-F-95.499048999999999
+(F29.693059999999999
+F-95.448284000000001
 tp1144
-s(V1501 tulane st, houston (TX)
+s(V6114 bankside, houston (TX)
 p1145
 tp1146
-(F29.798127999999998
-F-95.402649999999994
+(F29.663374999999998
+F-95.499048999999999
 tp1147
-s(V3767 bellefontaine, houston (TX)
+s(V1501 tulane st, houston (TX)
 p1148
 tp1149
-(F29.703451999999999
-F-95.436955999999995
+(F29.798127999999998
+F-95.402649999999994
 tp1150
-s(V1802 cortlandt st, houston (TX)
+s(V3767 bellefontaine, houston (TX)
 p1151
 tp1152
-(F29.802181999999998
-F-95.395250000000004
+(F29.703451999999999
+F-95.436955999999995
 tp1153
-s(S'11th and St, Houston TX'
+s(V1802 cortlandt st, houston (TX)
 p1154
 tp1155
-(F37.0625
-F-95.677068000000006
+(F29.802181999999998
+F-95.395250000000004
 tp1156
-s(V7903 captain dr, houston (TX)
+s(S'11th and St, Houston TX'
 p1157
 tp1158
-(F29.691783999999998
-F-95.544342999999998
-tp1159
-s(V1413 columbia st, houston (TX)
-p1160
-tp1161
-(F29.796866999999999
-F-95.393540000000002
-tp1162
-s(V5014 jason st, houston (TX)
-p1163
-tp1164
-(F29.683883999999999
-F-95.466320999999994
-tp1165
-s(V4025 gramercy, houston (TX)
-p1166
-tp1167
-(F29.703900000000001
-F-95.441854000000006
-tp1168
-s(S'Bissonnet Street and Buffalo Speedway, Houston TX'
-p1169
-tp1170
-(F29.725390000000001
-F-95.427837999999994
-tp1171
-s(V7103 windwater lagoon, houston (TX)
-p1172
-tp1173
-(F29.715785
-F-95.508420000000001
-tp1174
-s(V112 munford st, houston (TX)
-p1175
-tp1176
-(F29.808174000000001
-F-95.398298999999994
-tp1177
-s(V3727 gramercy, houston (TX)
-p1178
-tp1179
-(F29.704253999999999
-F-95.43468
-tp1180
-s(V6206 abington way, houston (TX)
-p1181
-tp1182
-(F29.788943
-F-95.423688999999996
-tp1183
-s(V1001 herkimer st, houston (TX)
-p1184
-tp1185
-(F29.788886000000002
-F-95.406265000000005
-tp1186
-s(V1227 cortlandt st, houston (TX)
-p1187
-tp1188
-(F29.793559999999999
-F-95.395678000000004
-tp1189
-s(V5715 willowbend blvd, houston (TX)
-p1190
-tp1191
-(F29.666128
-F-95.487036000000003
-tp1192
-s(V6002 rutherglenn dr, houston (TX)
-p1193
-tp1194
-(F29.672913999999999
-F-95.495497
-tp1195
-s(V2654 shady acres landing, houston (TX)
-p1196
-tp1197
-(F29.810552999999999
-F-95.423882000000006
-tp1198
-s(V909 w 22nd, houston (TX)
-p1199
-tp1200
-(F29.806234
-F-95.414944000000006
-tp1201
-s(V1442 w. 25th st., houston (TX)
-p1202
-tp1203
-(F29.808416000000001
-F-95.424965
-tp1204
-s(V5317 braeburn drive, bellaire (TX)
-p1205
-tp1206
-(F29.695553
-F-95.479011
-tp1207
-s(V5211 linden, bellaire (TX)
-p1208
-tp1209
-(F29.704118999999999
-F-95.471284999999995
-tp1210
-s(V4911 elm st, bellaire (TX)
-p1211
-tp1212
-(F29.712626
-F-95.465681000000004
-tp1213
-s(V4929 holt st, bellaire (TX)
-p1214
-tp1215
-(F29.691818999999999
-F-95.466268999999997
-tp1216
-s(V911 rutland st, houston (TX)
-p1217
-tp1218
-(F29.787438999999999
-F-95.401438999999996
-tp1219
-s(V922 nicholson, houston (TX)
-p1220
-tp1221
-(F29.787769999999998
-F-95.405225999999999
-tp1222
-s(S'Buffalo Spdwy and Westheimer Rd, Houston TX'
-p1223
-tp1224
-(F29.731708999999999
-F-95.485697999999999
-tp1225
-s(S'Link and RdWeslayan, Houston TX'
-p1226
-tp1227
 (F37.0625
 F-95.677068000000006
+tp1159
+s(V7903 captain dr, houston (TX)
+p1160
+tp1161
+(F29.691783999999998
+F-95.544342999999998
+tp1162
+s(V1413 columbia st, houston (TX)
+p1163
+tp1164
+(F29.796866999999999
+F-95.393540000000002
+tp1165
+s(V1017 herkimer, houston (TX)
+p1166
+tp1167
+(F29.789549999999998
+F-95.406370999999993
+tp1168
+s(V4025 gramercy, houston (TX)
+p1169
+tp1170
+(F29.703900000000001
+F-95.441854000000006
+tp1171
+s(S'Bissonnet Street and Buffalo Speedway, Houston TX'
+p1172
+tp1173
+(F29.725390000000001
+F-95.427837999999994
+tp1174
+s(V7103 windwater lagoon, houston (TX)
+p1175
+tp1176
+(F29.715785
+F-95.508420000000001
+tp1177
+s(V112 munford st, houston (TX)
+p1178
+tp1179
+(F29.808174000000001
+F-95.398298999999994
+tp1180
+s(V3727 gramercy, houston (TX)
+p1181
+tp1182
+(F29.704253999999999
+F-95.43468
+tp1183
+s(V6206 abington way, houston (TX)
+p1184
+tp1185
+(F29.788943
+F-95.423688999999996
+tp1186
+s(V1001 herkimer st, houston (TX)
+p1187
+tp1188
+(F29.788886000000002
+F-95.406265000000005
+tp1189
+s(V1227 cortlandt st, houston (TX)
+p1190
+tp1191
+(F29.793559999999999
+F-95.395678000000004
+tp1192
+s(V5715 willowbend blvd, houston (TX)
+p1193
+tp1194
+(F29.666128
+F-95.487036000000003
+tp1195
+s(V6002 rutherglenn dr, houston (TX)
+p1196
+tp1197
+(F29.672913999999999
+F-95.495497
+tp1198
+s(V2654 shady acres landing, houston (TX)
+p1199
+tp1200
+(F29.810552999999999
+F-95.423882000000006
+tp1201
+s(V909 w 22nd, houston (TX)
+p1202
+tp1203
+(F29.806234
+F-95.414944000000006
+tp1204
+s(V1442 w. 25th st., houston (TX)
+p1205
+tp1206
+(F29.808416000000001
+F-95.424965
+tp1207
+s(V5317 braeburn drive, bellaire (TX)
+p1208
+tp1209
+(F29.695553
+F-95.479011
+tp1210
+s(V5211 linden, bellaire (TX)
+p1211
+tp1212
+(F29.704118999999999
+F-95.471284999999995
+tp1213
+s(V4911 elm st, bellaire (TX)
+p1214
+tp1215
+(F29.712626
+F-95.465681000000004
+tp1216
+s(V4929 holt st, bellaire (TX)
+p1217
+tp1218
+(F29.691818999999999
+F-95.466268999999997
+tp1219
+s(V911 rutland st, houston (TX)
+p1220
+tp1221
+(F29.787438999999999
+F-95.401438999999996
+tp1222
+s(V922 nicholson, houston (TX)
+p1223
+tp1224
+(F29.787769999999998
+F-95.405225999999999
+tp1225
+s(S'Buffalo Spdwy and Westheimer Rd, Houston TX'
+p1226
+tp1227
+(F29.731708999999999
+F-95.485697999999999
 tp1228
-s(S'St and 77401.csvBeechnut, Houston TX'
+s(S'Link and RdWeslayan, Houston TX'
 p1229
 tp1230
 (F37.0625
 F-95.677068000000006
 tp1231
-s(V6203 claridge dr, houston (TX)
+s(S'St and 77401.csvBeechnut, Houston TX'
 p1232
 tp1233
-(F29.661176000000001
-F-95.500009000000006
+(F37.0625
+F-95.677068000000006
 tp1234
-s(S'S Loop Fwy and N Braeswood Blvd, Houston TX'
+s(V6203 claridge dr, houston (TX)
 p1235
 tp1236
-(F29.682168999999998
-F-95.458185999999998
+(F29.661176000000001
+F-95.500009000000006
 tp1237
-s(V5454 kinglet st, houston (TX)
+s(S'S Loop Fwy and N Braeswood Blvd, Houston TX'
 p1238
 tp1239
-(F29.662562999999999
-F-95.480101000000005
+(F29.682168999999998
+F-95.458185999999998
 tp1240
-s(V8222 edgemoor dr, houston (TX)
+s(V5454 kinglet st, houston (TX)
 p1241
 tp1242
-(F29.703443
-F-95.530518999999998
+(F29.662562999999999
+F-95.480101000000005
 tp1243
-s(V6318 sanford rd, houston (TX)
+s(V8222 edgemoor dr, houston (TX)
 p1244
 tp1245
-(F29.660043999999999
-F-95.502358000000001
+(F29.703443
+F-95.530518999999998
 tp1246
-s(V629 w. 16th, houston (TX)
+s(V6318 sanford rd, houston (TX)
 p1247
 tp1248
-(F29.80001
-F-95.409222
+(F29.660043999999999
+F-95.502358000000001
 tp1249
-s(V7839 barberton dr, houston (TX)
+s(V629 w. 16th, houston (TX)
 p1250
 tp1251
-(F29.694006000000002
-F-95.525803999999994
+(F29.80001
+F-95.409222
 tp1252
-s(V3015 castlewood st, houston (TX)
+s(V7839 barberton dr, houston (TX)
 p1253
 tp1254
-(F29.690307000000001
-F-95.424538999999996
+(F29.694006000000002
+F-95.525803999999994
 tp1255
-s(V4805 holt st, bellaire (TX)
+s(V3015 castlewood st, houston (TX)
 p1256
 tp1257
-(F29.691845000000001
-F-95.461777999999995
+(F29.690307000000001
+F-95.424538999999996
 tp1258
-s(V5426 creekbend, houston (TX)
+s(V4805 holt st, bellaire (TX)
 p1259
 tp1260
-(F29.665876999999998
-F-95.478460999999996
+(F29.691845000000001
+F-95.461777999999995
 tp1261
-s(V1723 w 14th a, houston (TX)
+s(V5426 creekbend, houston (TX)
 p1262
 tp1263
-(F29.796068999999999
-F-95.413809000000001
+(F29.665876999999998
+F-95.478460999999996
 tp1264
-s(V1723 w 14th f, houston (TX)
+s(V1723 w 14th a, houston (TX)
 p1265
 tp1266
 (F29.796068999999999
 F-95.413809000000001
 tp1267
-s(V1006 prince st, houston (TX)
+s(V1723 w 14th f, houston (TX)
 p1268
 tp1269
-(F29.789099
-F-95.413094000000001
+(F29.796068999999999
+F-95.413809000000001
 tp1270
-s(V4315 Meyerwood Drive, Houston (TX)
+s(V1006 prince st, houston (TX)
 p1271
 tp1272
-(F29.680772999999999
-F-95.450079000000002
+(F29.789099
+F-95.413094000000001
 tp1273
-s(V10103 fondren rd, houston (TX)
+s(V4315 Meyerwood Drive, Houston (TX)
 p1274
 tp1275
-(F29.668986
-F-95.507907000000003
+(F29.680772999999999
+F-95.450079000000002
 tp1276
-s(V3744 aberdeen way, houston (TX)
+s(V10103 fondren rd, houston (TX)
 p1277
 tp1278
-(F29.697976000000001
-F-95.436702999999994
+(F29.668986
+F-95.507907000000003
 tp1279
-s(V4625 willow st, bellaire (TX)
+s(V3744 aberdeen way, houston (TX)
 p1280
 tp1281
-(F29.702338000000001
-F-95.457908000000003
+(F29.697976000000001
+F-95.436702999999994
 tp1282
 s(V233 w 22nd st, houston (TX)
 p1283
@@ -2626,179 +2626,179 @@ tp1314
 (F29.794775000000001
 F-95.424920999999998
 tp1315
-s(V1110 w 18th, houston (TX)
+s(V2320 beall, houston (TX)
 p1316
 tp1317
-(F29.801679
-F-95.418831999999995
-tp1318
-s(V2320 beall, houston (TX)
-p1319
-tp1320
 (F29.807300999999999
 F-95.417956000000004
-tp1321
+tp1318
 s(V3606 durness way, houston (TX)
-p1322
-tp1323
+p1319
+tp1320
 (F29.694934
 F-95.431517999999997
-tp1324
+tp1321
 s(V118 White Dr., Bellaire (TX)
-p1325
-tp1326
+p1322
+tp1323
 (F29.707231
 F-95.458927000000003
-tp1327
+tp1324
 s(V700 12th 1/2 st, houston (TX)
-p1328
-tp1329
+p1325
+tp1326
 (F29.793296999999999
 F-95.389816999999994
-tp1330
+tp1327
 s(V1128 rutland st, houston (TX)
-p1331
-tp1332
+p1328
+tp1329
 (F29.792047
 F-95.400879000000003
-tp1333
+tp1330
 s(V7127 laguna villas, houston (TX)
-p1334
-tp1335
+p1331
+tp1332
 (F29.716768999999999
 F-95.509010000000004
-tp1336
+tp1333
 s(V212 e 25th st, houston (TX)
-p1337
-tp1338
+p1334
+tp1335
 (F29.808878
 F-95.396646000000004
-tp1339
+tp1336
 s(V1421 heights blvd, houston (TX)
-p1340
-tp1341
+p1337
+tp1338
 (F29.797127
 F-95.398375000000001
-tp1342
+tp1339
 s(V4054 silverwood dr, houston (TX)
-p1343
-tp1344
+p1340
+tp1341
 (F29.671555000000001
 F-95.442612999999994
-tp1345
+tp1342
 s(V633 w 17, houston (TX)
-p1346
-tp1347
+p1343
+tp1344
 (F29.801020999999999
 F-95.409384000000003
-tp1348
+tp1345
 s(V8103 bellaire blvd, houston (TX)
-p1349
-tp1350
+p1346
+tp1347
 (F29.704706000000002
 F-95.528048999999996
-tp1351
+tp1348
 s(V9211 riddlewood ln, houston (TX)
-p1352
-tp1353
+p1349
+tp1350
 (F29.681166999999999
 F-95.436194
-tp1354
+tp1351
 s(V602 e 15th st, houston (TX)
-p1355
-tp1356
+p1352
+tp1353
 (F29.797885999999998
 F-95.391925000000001
-tp1357
+tp1354
 s(V1212 w 22nd, houston (TX)
-p1358
-tp1359
+p1355
+tp1356
 (F29.805672999999999
 F-95.420990000000003
-tp1360
+tp1357
 s(V2500 gostic st, houston (TX)
-p1361
-tp1362
+p1358
+tp1359
 (F29.808983000000001
 F-95.391229999999993
-tp1363
+tp1360
 s(V9302 sharpcrest st, houston (TX)
-p1364
-tp1365
+p1361
+tp1362
 (F29.696573999999998
 F-95.547687999999994
-tp1366
+tp1363
 s(V8342 neff, houston (TX)
-p1367
-tp1368
+p1364
+tp1365
 (F29.701688000000001
 F-95.532522
-tp1369
+tp1366
 s(V6231 queensloch, houston (TX)
-p1370
-tp1371
+p1367
+tp1368
 (F29.673162000000001
 F-95.501610999999997
-tp1372
+tp1369
 s(V2111 widdicomb ct, houston (TX)
-p1373
-tp1374
+p1370
+tp1371
 (F29.806079
 F-95.438536999999997
-tp1375
+tp1372
 s(V1425 harvard, houston (TX)
-p1376
-tp1377
+p1373
+tp1374
 (F29.797228
 F-95.396846999999994
-tp1378
+tp1375
 s(V8315 concho st, houston (TX)
-p1379
-tp1380
+p1376
+tp1377
 (F29.694035
 F-95.531143
-tp1381
+tp1378
 s(V733 e 13th street, houston (TX)
-p1382
-tp1383
+p1379
+tp1380
 (F29.794785000000001
 F-95.388574000000006
-tp1384
+tp1381
 s(V5001 chestnut st, bellaire (TX)
-p1385
-tp1386
+p1382
+tp1383
 (F29.709451000000001
 F-95.467048000000005
-tp1387
+tp1384
 s(V412 aurora st, houston (TX)
-p1388
-tp1389
+p1385
+tp1386
 (F29.809521
 F-95.394094999999993
-tp1390
+tp1387
 s(V5510 creekbend dr, houston (TX)
-p1391
-tp1392
+p1388
+tp1389
 (F29.665856000000002
 F-95.480903999999995
-tp1393
+tp1390
 s(V1310 lawrence street, houston (TX)
-p1394
-tp1395
+p1391
+tp1392
 (F29.794862999999999
 F-95.407315999999994
-tp1396
+tp1393
 s(V1307A W. 25th Street, Houston (TX)
-p1397
-tp1398
+p1394
+tp1395
 (F29.808730000000001
 F-95.422938000000002
-tp1399
+tp1396
 s(V435 w 27th st, houston (TX)
-p1400
-tp1401
+p1397
+tp1398
 (F29.811263
 F-95.405396999999994
+tp1399
+s(V4533 wedgewood dr, bellaire (TX)
+p1400
+tp1401
+(F29.715529
+F-95.454278000000002
 tp1402
 s(V4545 wedgewood dr, bellaire (TX)
 p1403
@@ -3296,11 +3296,11 @@ tp1650
 (F29.699686
 F-95.457238000000004
 tp1651
-s(V4609 willow st, bellaire (TX)
+s(V5014 jason st, houston (TX)
 p1652
 tp1653
-(F29.702363999999999
-F-95.456363999999994
+(F29.683883999999999
+F-95.466320999999994
 tp1654
 s(V1505 25th st, houston (TX)
 p1655
@@ -3314,11 +3314,11 @@ tp1659
 (F29.711106000000001
 F-95.456326000000004
 tp1660
-s(V9314 leader st, houston (TX)
+s(V4625 willow st, bellaire (TX)
 p1661
 tp1662
-(F29.704170999999999
-F-95.547560000000004
+(F29.702338000000001
+F-95.457908000000003
 tp1663
 s(V1228 seamist dr, houston (TX)
 p1664
@@ -3470,575 +3470,575 @@ tp1737
 (F29.690885999999999
 F-95.473333999999994
 tp1738
-s(V5311 huisache st, bellaire (TX)
+s(V1526 dian, houston (TX)
 p1739
 tp1740
-(F29.699930999999999
-F-95.473163999999997
+(F29.799012999999999
+F-95.414028999999999
 tp1741
-s(V10818 Hillcroft, Houston (TX)
+s(V5311 huisache st, bellaire (TX)
 p1742
 tp1743
-(F29.662191
-F-95.492588999999995
+(F29.699930999999999
+F-95.473163999999997
 tp1744
-s(V916 w 17th st, houston (TX)
+s(V10818 Hillcroft, Houston (TX)
 p1745
 tp1746
-(F29.800681999999998
-F-95.414777000000001
+(F29.662191
+F-95.492588999999995
 tp1747
-s(V4046 tartan ln, houston (TX)
+s(V916 w 17th st, houston (TX)
 p1748
 tp1749
-(F29.693804
-F-95.442653000000007
+(F29.800681999999998
+F-95.414777000000001
 tp1750
-s(V1307 omar, houston (TX)
+s(V4046 tartan ln, houston (TX)
 p1751
 tp1752
-(F29.788049999999998
-F-95.390268000000006
+(F29.693804
+F-95.442653000000007
 tp1753
-s(V10114 oboe dr, houston (TX)
+s(V1307 omar, houston (TX)
 p1754
 tp1755
-(F29.671927
-F-95.445373000000004
+(F29.788049999999998
+F-95.390268000000006
 tp1756
-s(V2004 columbia, houston (TX)
+s(V10114 oboe dr, houston (TX)
 p1757
 tp1758
-(F29.804228999999999
-F-95.393049000000005
+(F29.671927
+F-95.445373000000004
 tp1759
-s(V1210 timbergrove ln, houston (TX)
+s(V2004 columbia, houston (TX)
 p1760
 tp1761
-(F29.793157000000001
-F-95.415926999999996
+(F29.804228999999999
+F-95.393049000000005
 tp1762
-s(V724 allston, houston (TX)
+s(V1210 timbergrove ln, houston (TX)
 p1763
 tp1764
-(F29.783995999999998
-F-95.399623000000005
+(F29.793157000000001
+F-95.415926999999996
 tp1765
-s(V417 e 14th st, houston (TX)
+s(V724 allston, houston (TX)
 p1766
 tp1767
-(F29.796524999999999
-F-95.393428999999998
+(F29.783995999999998
+F-95.399623000000005
 tp1768
-s(V4610 cedar st, bellaire (TX)
+s(V417 e 14th st, houston (TX)
 p1769
 tp1770
-(F29.707906999999999
-F-95.456034000000002
+(F29.796524999999999
+F-95.393428999999998
 tp1771
-s(V8815 tanager st, houston (TX)
+s(V4610 cedar st, bellaire (TX)
 p1772
 tp1773
-(F29.688649999999999
-F-95.539394000000001
+(F29.707906999999999
+F-95.456034000000002
 tp1774
-s(V1301 waverly st, houston (TX)
+s(V8815 tanager st, houston (TX)
 p1775
 tp1776
-(F29.794423999999999
-F-95.404801000000006
+(F29.688649999999999
+F-95.539394000000001
 tp1777
-s(V8314 quebec, houston (TX)
+s(V1301 waverly st, houston (TX)
 p1778
 tp1779
-(F29.688763000000002
-F-95.491705999999994
+(F29.794423999999999
+F-95.404801000000006
 tp1780
-s(V4514 valerie, bellaire (TX)
+s(V718 east 20th street, houston (TX)
 p1781
 tp1782
-(F29.694320000000001
-F-95.452900999999997
+(F29.803806999999999
+F-95.389116000000001
 tp1783
-s(V3310 drummond st, houston (TX)
+s(V4514 valerie, bellaire (TX)
 p1784
 tp1785
-(F29.696902999999999
-F-95.428792999999999
+(F29.694320000000001
+F-95.452900999999997
 tp1786
-s(V3218 pemberton circle dr, houston (TX)
+s(V3310 drummond st, houston (TX)
 p1787
 tp1788
-(F29.685998999999999
-F-95.428188000000006
+(F29.696902999999999
+F-95.428792999999999
 tp1789
-s(V1839 widdicomb ct, houston (TX)
+s(V3218 pemberton circle dr, houston (TX)
 p1790
 tp1791
-(F29.803452
-F-95.439451000000005
+(F29.685998999999999
+F-95.428188000000006
 tp1792
-s(V837 w 17th, houston (TX)
+s(V1839 widdicomb ct, houston (TX)
 p1793
 tp1794
-(F29.800965000000001
-F-95.413829000000007
+(F29.803452
+F-95.439451000000005
 tp1795
-s(V4912 palmetto, bellaire (TX)
+s(V837 w 17th, houston (TX)
 p1796
 tp1797
-(F29.712033000000002
-F-95.465869999999995
+(F29.800965000000001
+F-95.413829000000007
 tp1798
-s(V5101 patrick henry st, bellaire (TX)
+s(V4912 palmetto, bellaire (TX)
 p1799
 tp1800
-(F29.697485
-F-95.468056000000004
+(F29.712033000000002
+F-95.465869999999995
 tp1801
-s(V1538 nashua st, houston (TX)
+s(V5101 patrick henry st, bellaire (TX)
 p1802
 tp1803
-(F29.799247999999999
-F-95.412234999999995
+(F29.697485
+F-95.468056000000004
 tp1804
-s(V5205 pine st, bellaire (TX)
+s(V1538 nashua st, houston (TX)
 p1805
 tp1806
-(F29.694424000000001
-F-95.472893999999997
+(F29.799247999999999
+F-95.412234999999995
 tp1807
-s(V4971 dumfries dr, houston (TX)
+s(V5205 pine st, bellaire (TX)
 p1808
 tp1809
-(F29.673787999999998
-F-95.464793
+(F29.694424000000001
+F-95.472893999999997
 tp1810
-s(S'South Fwy and Yellowstone Blvd, Houston TX'
+s(V4971 dumfries dr, houston (TX)
 p1811
 tp1812
-(F29.690937999999999
-F-95.369854000000004
+(F29.673787999999998
+F-95.464793
 tp1813
-s(V6106 lymbar dr, houston (TX)
+s(S'Holcombe and BlvdBuffalo, Houston TX'
 p1814
 tp1815
-(F29.667925
-F-95.498435999999998
+(F29.727975000000001
+F-95.394934000000006
 tp1816
-s(V2221 gostick st, houston (TX)
+s(S'South Fwy and Yellowstone Blvd, Houston TX'
 p1817
 tp1818
-(F29.806964000000001
-F-95.391396999999998
+(F29.690937999999999
+F-95.369854000000004
 tp1819
-s(S'BlvdKirby and DrBissonnet, Houston TX'
+s(V6106 lymbar dr, houston (TX)
 p1820
 tp1821
-(F37.0625
-F-95.677068000000006
+(F29.667925
+F-95.498435999999998
 tp1822
-s(V2507 lazybrook dr, houston (TX)
+s(V2221 gostick st, houston (TX)
 p1823
 tp1824
-(F29.804113999999998
-F-95.444495000000003
+(F29.806964000000001
+F-95.391396999999998
 tp1825
-s(V4106 omeara, houston (TX)
+s(S'BlvdKirby and DrBissonnet, Houston TX'
 p1826
 tp1827
-(F29.672374000000001
-F-95.444563000000002
+(F37.0625
+F-95.677068000000006
 tp1828
-s(S'Speedway and 77025.csvBellaire, Houston TX'
+s(V2507 lazybrook dr, houston (TX)
 p1829
 tp1830
-(F37.0625
-F-95.677068000000006
+(F29.804113999999998
+F-95.444495000000003
 tp1831
-s(V3018 broadmead dr, houston (TX)
+s(V4106 omeara, houston (TX)
 p1832
 tp1833
-(F29.689986000000001
-F-95.425163999999995
+(F29.672374000000001
+F-95.444563000000002
 tp1834
-s(V2406 nicholson st, houston (TX)
+s(S'Speedway and 77025.csvBellaire, Houston TX'
 p1835
 tp1836
-(F29.808558000000001
-F-95.405653999999998
+(F37.0625
+F-95.677068000000006
 tp1837
-s(V4903 valkeith, houston (TX)
+s(V3018 broadmead dr, houston (TX)
 p1838
 tp1839
-(F29.675014999999998
-F-95.460656999999998
+(F29.689986000000001
+F-95.425163999999995
 tp1840
-s(S'Freeway and 77008.csvN, Houston TX'
+s(V2406 nicholson st, houston (TX)
 p1841
 tp1842
-(F37.0625
-F-95.677068000000006
+(F29.808558000000001
+F-95.405653999999998
 tp1843
-s(V5807 lugary dr, houston (TX)
+s(V4903 valkeith, houston (TX)
 p1844
 tp1845
-(F29.715786999999999
-F-95.520375000000001
+(F29.675014999999998
+F-95.460656999999998
 tp1846
-s(V1723 w 14th c, houston (TX)
+s(S'Freeway and 77008.csvN, Houston TX'
 p1847
 tp1848
-(F29.796068999999999
-F-95.413809000000001
-tp1849
-s(V4413 lula, bellaire (TX)
-p1850
-tp1851
-(F29.700330000000001
-F-95.450100000000006
-tp1852
-s(V602 aurora st, houston (TX)
-p1853
-tp1854
-(F29.809543999999999
-F-95.392213999999996
-tp1855
-s(V5303 jason st, houston (TX)
-p1856
-tp1857
-(F29.683896000000001
-F-95.477249
-tp1858
-s(V1307 w 25th, houston (TX)
-p1859
-tp1860
-(F29.809578999999999
-F-95.422942000000006
-tp1861
-s(V1529 beall, houston (TX)
-p1862
-tp1863
-(F29.798984000000001
-F-95.418272000000002
-tp1864
-s(V421 w 13th st, houston (TX)
-p1865
-tp1866
-(F29.794542
-F-95.402175
-tp1867
-s(V8535 hiawatha, houston (TX)
-p1868
-tp1869
-(F29.706244999999999
-F-95.535681999999994
-tp1870
-s(V3216 aberdeen way, houston (TX)
-p1871
-tp1872
-(F29.698633000000001
-F-95.428349999999995
-tp1873
-s(S'Kirby Dr and W Holcombe Blvd, Houston TX'
-p1874
-tp1875
-(F29.706240000000001
-F-95.418229999999994
-tp1876
-s(V7622 Pella Dr, Houston (TX)
-p1877
-tp1878
-(F29.695436000000001
-F-95.545770000000005
-tp1879
-s(V115 w 10th st, houston (TX)
-p1880
-tp1881
-(F29.789228999999999
-F-95.398494999999997
-tp1882
-s(V5418 valerie, bellaire (TX)
-p1883
-tp1884
-(F29.693821
-F-95.483547999999999
-tp1885
-s(V1620 w. 13th street, houston (TX)
-p1886
-tp1887
-(F29.793655000000001
-F-95.412682000000004
-tp1888
-s(V933 17th st, houston (TX)
-p1889
-tp1890
-(F29.800937999999999
-F-95.415488999999994
-tp1891
-s(V4815 braesvalley, houston (TX)
-p1892
-tp1893
-(F29.682057
-F-95.461883999999998
-tp1894
-s(V1528 dian, houston (TX)
-p1895
-tp1896
-(F29.799040999999999
-F-95.414029999999997
-tp1897
-s(S'Fwy and 77025.csvBraeswood, Houston TX'
-p1898
-tp1899
 (F37.0625
 F-95.677068000000006
-tp1900
-s(S'South Shepherd Drive and Bissonnet Street, Houston TX'
-p1901
-tp1902
-(F29.725583
-F-95.410527999999999
-tp1903
-s(V1107 bay oaks rd, houston (TX)
-p1904
-tp1905
-(F29.79064
-F-95.414613000000003
-tp1906
-s(V4811 palmetto st, bellaire (TX)
-p1907
-tp1908
-(F29.711390999999999
-F-95.463302999999996
-tp1909
-s(V325 e 24th st, houston (TX)
-p1910
-tp1911
-(F29.808406999999999
-F-95.394705000000002
-tp1912
-s(V2037 14th 1/2, houston (TX)
-p1913
-tp1914
-(F29.796116999999999
-F-95.420243999999997
-tp1915
-s(V1221 omar st, houston (TX)
-p1916
-tp1917
-(F29.788326000000001
-F-95.388778000000002
-tp1918
-s(V311 b e. 23rd, houston (TX)
-p1919
-tp1920
-(F29.80724
-F-95.395363000000003
-tp1921
-s(V3851 grennoch ln, houston (TX)
-p1922
-tp1923
-(F29.694866000000001
-F-95.439830999999998
-tp1924
-s(V9303 fordshire dr, houston (TX)
-p1925
-tp1926
-(F29.681698999999998
-F-95.440324000000004
-tp1927
-s(V9714 braesmont dr, houston (TX)
-p1928
-tp1929
-(F29.675179
-F-95.480224000000007
-tp1930
-s(S'street 2 and street 3, Houston TX'
-p1931
-tp1932
-(F29.869555999999999
-F-95.552441999999999
-tp1933
-s(V6038 vickijohn, houston (TX)
-p1934
-tp1935
-(F29.662445000000002
-F-95.496741999999998
-tp1936
-s(V11056 bellbrook, houston (TX)
-p1937
-tp1938
-(F29.658276999999998
-F-95.503806999999995
-tp1939
-s(V822 w 14th st, houston (TX)
-p1940
-tp1941
-(F29.795857000000002
-F-95.405990000000003
-tp1942
-s(V9810 cynthia ann ct, houston (TX)
-p1943
-tp1944
-(F29.676614000000001
-F-95.435055000000006
-tp1945
-s(V1010 wynnwood ln, houston (TX)
-p1946
-tp1947
-(F29.794324
-F-95.416815999999997
-tp1948
-s(V6110 cheena, houston (TX)
-p1949
-tp1950
-(F29.668742999999999
-F-95.498711999999998
-tp1951
-s(V1430 yale st, houston (TX)
-p1952
-tp1953
-(F29.797335
-F-95.398780000000002
-tp1954
-s(V547 wisteria, bellaire (TX)
-p1955
-tp1956
-(F29.699051000000001
-F-95.460842
-tp1957
-s(V1310 lawrence, houston (TX)
-p1958
-tp1959
-(F29.794862999999999
-F-95.407315999999994
-tp1960
-s(V4416 betty, bellaire (TX)
-p1961
-tp1962
-(F29.700039
-F-95.450101000000004
-tp1963
-s(V9126 jackwood, houston (TX)
-p1964
-tp1965
-(F29.687446000000001
-F-95.545164999999997
-tp1966
-s(V1102 w 18th, houston (TX)
-p1967
-tp1968
-(F29.801544
-F-95.418537000000001
-tp1969
-s(V1104 w 18th, houston (TX)
-p1970
-tp1971
-(F29.801379000000001
-F-95.418536000000003
-tp1972
-s(V1723 w 14th d, houston (TX)
-p1973
-tp1974
+tp1849
+s(V5807 lugary dr, houston (TX)
+p1850
+tp1851
+(F29.715786999999999
+F-95.520375000000001
+tp1852
+s(V1723 w 14th c, houston (TX)
+p1853
+tp1854
 (F29.796068999999999
 F-95.413809000000001
+tp1855
+s(V4413 lula, bellaire (TX)
+p1856
+tp1857
+(F29.700330000000001
+F-95.450100000000006
+tp1858
+s(V602 aurora st, houston (TX)
+p1859
+tp1860
+(F29.809543999999999
+F-95.392213999999996
+tp1861
+s(V5303 jason st, houston (TX)
+p1862
+tp1863
+(F29.683896000000001
+F-95.477249
+tp1864
+s(V1307 w 25th, houston (TX)
+p1865
+tp1866
+(F29.809578999999999
+F-95.422942000000006
+tp1867
+s(V1529 beall, houston (TX)
+p1868
+tp1869
+(F29.798984000000001
+F-95.418272000000002
+tp1870
+s(V421 w 13th st, houston (TX)
+p1871
+tp1872
+(F29.794542
+F-95.402175
+tp1873
+s(V8535 hiawatha, houston (TX)
+p1874
+tp1875
+(F29.706244999999999
+F-95.535681999999994
+tp1876
+s(V3216 aberdeen way, houston (TX)
+p1877
+tp1878
+(F29.698633000000001
+F-95.428349999999995
+tp1879
+s(S'Kirby Dr and W Holcombe Blvd, Houston TX'
+p1880
+tp1881
+(F29.706240000000001
+F-95.418229999999994
+tp1882
+s(V7622 Pella Dr, Houston (TX)
+p1883
+tp1884
+(F29.695436000000001
+F-95.545770000000005
+tp1885
+s(V115 w 10th st, houston (TX)
+p1886
+tp1887
+(F29.789228999999999
+F-95.398494999999997
+tp1888
+s(V5418 valerie, bellaire (TX)
+p1889
+tp1890
+(F29.693821
+F-95.483547999999999
+tp1891
+s(V1620 w. 13th street, houston (TX)
+p1892
+tp1893
+(F29.793655000000001
+F-95.412682000000004
+tp1894
+s(V933 17th st, houston (TX)
+p1895
+tp1896
+(F29.800937999999999
+F-95.415488999999994
+tp1897
+s(V4815 braesvalley, houston (TX)
+p1898
+tp1899
+(F29.682057
+F-95.461883999999998
+tp1900
+s(V1528 dian, houston (TX)
+p1901
+tp1902
+(F29.799040999999999
+F-95.414029999999997
+tp1903
+s(S'Fwy and 77025.csvBraeswood, Houston TX'
+p1904
+tp1905
+(F37.0625
+F-95.677068000000006
+tp1906
+s(S'South Shepherd Drive and Bissonnet Street, Houston TX'
+p1907
+tp1908
+(F29.725583
+F-95.410527999999999
+tp1909
+s(V1107 bay oaks rd, houston (TX)
+p1910
+tp1911
+(F29.79064
+F-95.414613000000003
+tp1912
+s(V4811 palmetto st, bellaire (TX)
+p1913
+tp1914
+(F29.711390999999999
+F-95.463302999999996
+tp1915
+s(V325 e 24th st, houston (TX)
+p1916
+tp1917
+(F29.808406999999999
+F-95.394705000000002
+tp1918
+s(V2037 14th 1/2, houston (TX)
+p1919
+tp1920
+(F29.796116999999999
+F-95.420243999999997
+tp1921
+s(V1221 omar st, houston (TX)
+p1922
+tp1923
+(F29.788326000000001
+F-95.388778000000002
+tp1924
+s(V311 b e. 23rd, houston (TX)
+p1925
+tp1926
+(F29.80724
+F-95.395363000000003
+tp1927
+s(V3851 grennoch ln, houston (TX)
+p1928
+tp1929
+(F29.694866000000001
+F-95.439830999999998
+tp1930
+s(V9303 fordshire dr, houston (TX)
+p1931
+tp1932
+(F29.681698999999998
+F-95.440324000000004
+tp1933
+s(V9714 braesmont dr, houston (TX)
+p1934
+tp1935
+(F29.675179
+F-95.480224000000007
+tp1936
+s(S'street 2 and street 3, Houston TX'
+p1937
+tp1938
+(F29.869555999999999
+F-95.552441999999999
+tp1939
+s(V6038 vickijohn, houston (TX)
+p1940
+tp1941
+(F29.662445000000002
+F-95.496741999999998
+tp1942
+s(V11056 bellbrook, houston (TX)
+p1943
+tp1944
+(F29.658276999999998
+F-95.503806999999995
+tp1945
+s(V822 w 14th st, houston (TX)
+p1946
+tp1947
+(F29.795857000000002
+F-95.405990000000003
+tp1948
+s(V9810 cynthia ann ct, houston (TX)
+p1949
+tp1950
+(F29.676614000000001
+F-95.435055000000006
+tp1951
+s(V1010 wynnwood ln, houston (TX)
+p1952
+tp1953
+(F29.794324
+F-95.416815999999997
+tp1954
+s(V6110 cheena, houston (TX)
+p1955
+tp1956
+(F29.668742999999999
+F-95.498711999999998
+tp1957
+s(V1430 yale st, houston (TX)
+p1958
+tp1959
+(F29.797335
+F-95.398780000000002
+tp1960
+s(V547 wisteria, bellaire (TX)
+p1961
+tp1962
+(F29.699051000000001
+F-95.460842
+tp1963
+s(V1310 lawrence, houston (TX)
+p1964
+tp1965
+(F29.794862999999999
+F-95.407315999999994
+tp1966
+s(V4416 betty, bellaire (TX)
+p1967
+tp1968
+(F29.700039
+F-95.450101000000004
+tp1969
+s(V9126 jackwood, houston (TX)
+p1970
+tp1971
+(F29.687446000000001
+F-95.545164999999997
+tp1972
+s(V1102 w 18th, houston (TX)
+p1973
+tp1974
+(F29.801544
+F-95.418537000000001
 tp1975
-s(V5405 pine st, bellaire (TX)
+s(V1104 w 18th, houston (TX)
 p1976
 tp1977
-(F29.694355999999999
-F-95.481240999999997
+(F29.801379000000001
+F-95.418536000000003
 tp1978
-s(V4038 grennoch ln, houston (TX)
+s(V1723 w 14th d, houston (TX)
 p1979
 tp1980
-(F29.695527999999999
-F-95.442243000000005
+(F29.796068999999999
+F-95.413809000000001
 tp1981
-s(V414 e 28th, houston (TX)
+s(V5405 pine st, bellaire (TX)
 p1982
 tp1983
-(F29.81202
-F-95.393882000000005
+(F29.694355999999999
+F-95.481240999999997
 tp1984
-s(V225 w 23rd st, houston (TX)
+s(V4038 grennoch ln, houston (TX)
 p1985
 tp1986
-(F29.807267
-F-95.400606999999994
+(F29.695527999999999
+F-95.442243000000005
 tp1987
-s(V9323 greenwillow st, houston (TX)
+s(V414 e 28th, houston (TX)
 p1988
 tp1989
-(F29.681183000000001
-F-95.448841999999999
+(F29.81202
+F-95.393882000000005
 tp1990
-s(V4516 mimosa dr, bellaire (TX)
+s(V225 w 23rd st, houston (TX)
 p1991
 tp1992
-(F29.690771999999999
-F-95.453002999999995
+(F29.807267
+F-95.400606999999994
 tp1993
-s(V1041 waverly st, houston (TX)
+s(V9323 greenwillow st, houston (TX)
 p1994
 tp1995
-(F29.790236
-F-95.404773000000006
+(F29.681183000000001
+F-95.448841999999999
 tp1996
-s(V5827 braesheather dr, houston (TX)
+s(V4516 mimosa dr, bellaire (TX)
 p1997
 tp1998
-(F29.674907000000001
-F-95.490735000000001
+(F29.690771999999999
+F-95.453002999999995
 tp1999
-s(V2504 brinkman st, houston (TX)
+s(V1041 waverly st, houston (TX)
 p2000
 tp2001
-(F29.809111999999999
-F-95.414310999999998
+(F29.790236
+F-95.404773000000006
 tp2002
-s(V8407 stroud dr, houston (TX)
+s(V5827 braesheather dr, houston (TX)
 p2003
 tp2004
-(F29.698702999999998
-F-95.533519999999996
+(F29.674907000000001
+F-95.490735000000001
 tp2005
-s(V4301 lafayette st, bellaire (TX)
+s(V8407 stroud dr, houston (TX)
 p2006
 tp2007
-(F29.691261999999998
-F-95.447390999999996
+(F29.698702999999998
+F-95.533519999999996
 tp2008
-s(V821 west 26th, houston (TX)
+s(V4301 lafayette st, bellaire (TX)
 p2009
 tp2010
-(F29.810134999999999
-F-95.413244000000006
+(F29.691261999999998
+F-95.447390999999996
 tp2011
-s(V4624 willow st, bellaire (TX)
+s(V821 west 26th, houston (TX)
 p2012
 tp2013
-(F29.702891000000001
-F-95.457863000000003
+(F29.810134999999999
+F-95.413244000000006
 tp2014
-s(V6714 tam o shanter ln, houston (TX)
+s(V4624 willow st, bellaire (TX)
 p2015
 tp2016
-(F29.706683000000002
-F-95.524484999999999
+(F29.702891000000001
+F-95.457863000000003
 tp2017
-s(V10703 glenfield ct, houston (TX)
+s(V6714 tam o shanter ln, houston (TX)
 p2018
 tp2019
-(F29.66451
-F-95.495731000000006
+(F29.706683000000002
+F-95.524484999999999
 tp2020
-s(V3819 grennoch, houston (TX)
+s(V10703 glenfield ct, houston (TX)
 p2021
 tp2022
-(F29.694882
-F-95.438281000000003
+(F29.66451
+F-95.495731000000006
 tp2023
 s(V5638 dumfries, houston (TX)
 p2024
@@ -4046,11 +4046,11 @@ tp2025
 (F29.671388
 F-95.484910999999997
 tp2026
-s(S'Holcombe and BlvdBuffalo, Houston TX'
+s(V3527 aberdeen way, houston (TX)
 p2027
 tp2028
-(F29.727975000000001
-F-95.394934000000006
+(F29.697765
+F-95.430668999999995
 tp2029
 s(S'N Braeswood Blvd and Stella Link Rd, Houston TX'
 p2030
@@ -4274,11 +4274,11 @@ tp2139
 (F29.805971
 F-95.401500999999996
 tp2140
-s(V4533 wedgewood dr, bellaire (TX)
+s(V9314 leader st, houston (TX)
 p2141
 tp2142
-(F29.715529
-F-95.454278000000002
+(F29.704170999999999
+F-95.547560000000004
 tp2143
 s(V9008 latma ct, houston (TX)
 p2144
@@ -4334,425 +4334,425 @@ tp2169
 (F29.806757999999999
 F-95.395286999999996
 tp2170
-s(V741 e 13th st, houston (TX)
+s(S'StW and 11th, Houston TX'
 p2171
 tp2172
-(F29.794791
-F-95.388255000000001
+(F37.0625
+F-95.677068000000006
 tp2173
-s(S'StW and 11th, Houston TX'
+s(S'Beechnut St and Stella Link Rd, Houston TX'
 p2174
 tp2175
 (F37.0625
 F-95.677068000000006
 tp2176
-s(S'Beechnut St and Stella Link Rd, Houston TX'
+s(S'W Loop S Fwy and Beechnut St, Houston TX'
 p2177
 tp2178
-(F37.0625
-F-95.677068000000006
-tp2179
-s(S'W Loop S Fwy and Beechnut St, Houston TX'
-p2180
-tp2181
 (F29.689302000000001
 F-95.459446
-tp2182
+tp2179
 s(V5419 paisley st, houston (TX)
-p2183
-tp2184
+p2180
+tp2181
 (F29.674285999999999
 F-95.477968000000004
-tp2185
+tp2182
 s(V2071 14th 1/2, houston (TX)
-p2186
-tp2187
+p2183
+tp2184
 (F29.796279999999999
 F-95.420567000000005
-tp2188
+tp2185
 s(V5655 yarwell, houston (TX)
-p2189
-tp2190
+p2186
+tp2187
 (F29.670055000000001
 F-95.485860000000002
-tp2191
+tp2188
 s(V2041 14th 1/2, houston (TX)
-p2192
-tp2193
+p2189
+tp2190
 (F29.796102000000001
 F-95.420427000000004
-tp2194
+tp2191
 s(V1711 beall, houston (TX)
-p2195
-tp2196
+p2192
+tp2193
 (F29.800820999999999
 F-95.418006000000005
-tp2197
+tp2194
 s(S'BlvdBuffalo and SpeedwayBraeswood, Houston TX'
+p2195
+tp2196
+(F37.0625
+F-95.677068000000006
+tp2197
+s(V1126 w 23rd, houston (TX)
 p2198
 tp2199
-(F37.0625
-F-95.677068000000006
-tp2200
-s(V1126 w 23rd, houston (TX)
-p2201
-tp2202
 (F29.806574000000001
 F-95.419664999999995
-tp2203
+tp2200
 s(V1335 Tulane, Houston (TX)
-p2204
-tp2205
+p2201
+tp2202
 (F29.795438000000001
 F-95.402687
-tp2206
+tp2203
 s(V8522 neff st, houston (TX)
-p2207
-tp2208
+p2204
+tp2205
 (F29.701650000000001
 F-95.535543000000004
-tp2209
+tp2206
 s(S'DrBissonnet and StBuffalo, Houston TX'
+p2207
+tp2208
+(F37.0625
+F-95.677068000000006
+tp2209
+s(V1011 mulberry, bellaire (TX)
 p2210
 tp2211
-(F37.0625
-F-95.677068000000006
-tp2212
-s(V1011 mulberry, bellaire (TX)
-p2213
-tp2214
 (F29.717742000000001
 F-95.449877000000001
-tp2215
+tp2212
 s(V2214 tannehill, houston (TX)
-p2216
-tp2217
+p2213
+tp2214
 (F29.798839999999998
 F-95.438946000000001
-tp2218
+tp2215
 s(V4337 wendell, bellaire (TX)
-p2219
-tp2220
+p2216
+tp2217
 (F29.698239000000001
 F-95.448960999999997
-tp2221
+tp2218
 s(S'Stella Link Rd and S Loop Fwy, Houston TX'
-p2222
-tp2223
+p2219
+tp2220
 (F29.679756999999999
 F-95.440088000000003
-tp2224
+tp2221
 s(V5933 sanford rd, houston (TX)
-p2225
-tp2226
+p2222
+tp2223
 (F29.659496000000001
 F-95.494185999999999
-tp2227
+tp2224
 s(V3642 blue bonnet blvd, houston (TX)
-p2228
-tp2229
+p2225
+tp2226
 (F29.700492000000001
 F-95.430890000000005
-tp2230
+tp2227
 s(S'Stella Link Rd and Bellaire Blvd, Houston TX'
-p2231
-tp2232
+p2228
+tp2229
 (F29.706060000000001
 F-95.440257000000003
-tp2233
+tp2230
 s(V2115 gostick st, houston (TX)
-p2234
-tp2235
+p2231
+tp2232
 (F29.805554999999998
 F-95.391361000000003
-tp2236
+tp2233
 s(V842 w 17th st, houston (TX)
-p2237
-tp2238
+p2234
+tp2235
 (F29.800419999999999
 F-95.413927999999999
-tp2239
+tp2236
 s(S'77401.csvBeechnut and StS, Houston TX'
+p2237
+tp2238
+(F37.0625
+F-95.677068000000006
+tp2239
+s(V11114 cedarhurst, houston (TX)
 p2240
 tp2241
-(F37.0625
-F-95.677068000000006
-tp2242
-s(V11114 cedarhurst, houston (TX)
-p2243
-tp2244
 (F29.662704000000002
 F-95.474317999999997
-tp2245
+tp2242
 s(V4145 woodhaven, houston (TX)
-p2246
-tp2247
+p2243
+tp2244
 (F29.665455999999999
 F-95.444057000000001
-tp2248
+tp2245
 s(V5475 maple st., houston (TX)
-p2249
-tp2250
+p2246
+tp2247
 (F29.690745
 F-95.483926999999994
-tp2251
+tp2248
 s(V5403 rutherglenn dr, houston (TX)
-p2252
-tp2253
+p2249
+tp2250
 (F29.672651999999999
 F-95.477041
-tp2254
+tp2251
 s(V6027 sanford rd, houston (TX)
-p2255
-tp2256
+p2252
+tp2253
 (F29.659469999999999
 F-95.496295000000003
-tp2257
+tp2254
 s(V3209 glen haven blvd, houston (TX)
-p2258
-tp2259
+p2255
+tp2256
 (F29.701149999999998
 F-95.428055999999998
-tp2260
+tp2257
 s(S'Stella Link Rd and Weslayan St, Houston TX'
-p2261
-tp2262
+p2258
+tp2259
 (F29.708434
 F-95.441056000000003
-tp2263
+tp2260
 s(S'W 11th St and N Shepherd Dr, Houston TX'
-p2264
-tp2265
+p2261
+tp2262
 (F29.790572999999998
 F-95.409893999999994
-tp2266
+tp2263
 s(V8002 rowan ln, houston (TX)
-p2267
-tp2268
+p2264
+tp2265
 (F29.700970000000002
 F-95.526612999999998
-tp2269
+tp2266
 s(V912 w 25th #3, houston (TX)
-p2270
-tp2271
+p2267
+tp2268
 (F29.808647000000001
 F-95.415261999999998
-tp2272
+tp2269
 s(V4615 spruce st, bellaire (TX)
-p2273
-tp2274
+p2270
+tp2271
 (F29.708273999999999
 F-95.456404000000006
-tp2275
+tp2272
 s(V1126 prince, houston (TX)
-p2276
-tp2277
+p2273
+tp2274
 (F29.791592000000001
 F-95.413145999999998
-tp2278
+tp2275
 s(V233 w 21st st, houston (TX)
-p2279
-tp2280
+p2276
+tp2277
 (F29.805250999999998
 F-95.400796999999997
-tp2281
+tp2278
 s(S'University Blvd and Kirby Dr, Houston TX'
-p2282
-tp2283
+p2279
+tp2280
 (F29.715066
 F-95.418422000000007
-tp2284
+tp2281
 s(S'South Shepherd Dr and Bissonnet St, Houston TX'
-p2285
-tp2286
+p2282
+tp2283
 (F29.725583
 F-95.410527999999999
-tp2287
+tp2284
 s(V11010 bellbrook drive, houston (TX)
-p2288
-tp2289
+p2285
+tp2286
 (F29.660080000000001
 F-95.503811999999996
-tp2290
+tp2287
 s(V809 n 2nd st, bellaire (TX)
-p2291
-tp2292
+p2288
+tp2289
 (F29.713889000000002
 F-95.465245999999993
-tp2293
+tp2290
 s(V6210 LINTON RD, Houston (TX)
-p2294
-tp2295
+p2291
+tp2292
 (F29.787120000000002
 F-95.423839000000001
-tp2296
+tp2293
 s(V1222 seamist dr, houston (TX)
-p2297
-tp2298
+p2294
+tp2295
 (F29.791809000000001
 F-95.437523999999996
-tp2299
+tp2296
 s(V117 e 25th st, houston (TX)
-p2300
-tp2301
+p2297
+tp2298
 (F29.809062999999998
 F-95.397886999999997
-tp2302
+tp2299
 s(V8414 stroud drive, houston (TX)
-p2303
-tp2304
+p2300
+tp2301
 (F29.699187999999999
 F-95.533766999999997
+tp2302
+s(V914 lawrence, houston (TX)
+p2303
+tp2304
+(F29.787554
+F-95.406925999999999
 tp2305
-s(S'N Loop Freeway and North Freeway, Houston TX'
+s(Vhouston (TX)
 p2306
 tp2307
-(F29.797053999999999
-F-95.450202000000004
-tp2308
-s(Vhouston (TX)
-p2309
-tp2310
 (F29.763283999999999
 F-95.363271999999995
-tp2311
+tp2308
 s(V903 w 9th, houston (TX)
-p2312
-tp2313
+p2309
+tp2310
 (F29.786895000000001
 F-95.406137000000001
+tp2311
+s(V1110 w 18th, houston (TX)
+p2312
+tp2313
+(F29.801679
+F-95.418831999999995
 tp2314
-s(V4409 mildred, bellaire (TX)
+s(S'Greenbriar St and University Blvd, Houston TX'
 p2315
 tp2316
-(F29.696826000000001
-F-95.449744999999993
-tp2317
-s(S'Greenbriar St and University Blvd, Houston TX'
-p2318
-tp2319
 (F29.715107
 F-95.412671000000003
-tp2320
+tp2317
 s(V1005 waverly st, houston (TX)
-p2321
-tp2322
+p2318
+tp2319
 (F29.789092
 F-95.404482000000002
-tp2323
+tp2320
 s(S'Shepherd and DrW, Houston TX'
-p2324
-tp2325
+p2321
+tp2322
 (F29.804739000000001
 F-95.470310999999995
-tp2326
+tp2323
 s(V9716 Riddlewood, Houston (TX)
-p2327
-tp2328
+p2324
+tp2325
 (F29.677336
 F-95.436646999999994
-tp2329
+tp2326
 s(S'Rice and AveBellaire, Houston TX'
-p2330
-tp2331
+p2327
+tp2328
 (F29.733222999999999
 F-95.415774999999996
-tp2332
+tp2329
 s(S'77025.csvBraeswood and BlvdStella, Houston TX'
+p2330
+tp2331
+(F37.0625
+F-95.677068000000006
+tp2332
+s(S'W Loop Fwy and N Braeswood Blvd, Houston TX'
 p2333
 tp2334
-(F37.0625
-F-95.677068000000006
-tp2335
-s(S'W Loop Fwy and N Braeswood Blvd, Houston TX'
-p2336
-tp2337
 (F29.682168999999998
 F-95.458185999999998
-tp2338
+tp2335
 s(V2416 bevis st, houston (TX)
-p2339
-tp2340
+p2336
+tp2337
 (F29.808226999999999
 F-95.421987000000001
-tp2341
+tp2338
 s(S'Rd and 77005.csvUniversity, Houston TX'
-p2342
-tp2343
+p2339
+tp2340
 (F37.0625
 F-95.677068000000006
-tp2344
+tp2341
 s(V5611 valkeith, houston (TX)
-p2345
-tp2346
+p2342
+tp2343
 (F29.671742999999999
 F-95.483358999999993
-tp2347
+tp2344
 s(V3835 Sun Valley Dr, Houston (TX)
-p2348
-tp2349
+p2345
+tp2346
 (F29.684417
 F-95.439633999999998
-tp2350
+tp2347
 s(V9261 buffalo speedway, houston (TX)
-p2351
-tp2352
+p2348
+tp2349
 (F29.685316
 F-95.425353000000001
-tp2353
+tp2350
 s(V6327 sanford rd, houston (TX)
-p2354
-tp2355
+p2351
+tp2352
 (F29.659610000000001
 F-95.502686999999995
-tp2356
+tp2353
 s(V5222 valerie st, bellaire (TX)
-p2357
-tp2358
+p2354
+tp2355
 (F29.693881000000001
 F-95.475798999999995
-tp2359
+tp2356
 s(V5212 holly st, bellaire (TX)
-p2360
-tp2361
+p2357
+tp2358
 (F29.69267
 F-95.473716999999994
-tp2362
+tp2359
 s(V8339 carvel ln, houston (TX)
-p2363
-tp2364
+p2360
+tp2361
 (F29.696390000000001
 F-95.532252
-tp2365
+tp2362
 s(V6227 bayou bridge dr, houston (TX)
-p2366
-tp2367
+p2363
+tp2364
 (F29.674814999999999
 F-95.501424
-tp2368
+tp2365
 s(S'University Blvd and Weslayan St, Houston TX'
-p2369
-tp2370
+p2366
+tp2367
 (F29.714528000000001
 F-95.441146000000003
-tp2371
+tp2368
 s(V3516 Bellaire Blvd, Houston (TX)
-p2372
-tp2373
+p2369
+tp2370
 (F29.706344999999999
 F-95.431711000000007
-tp2374
+tp2371
 s(V2550 bevis, houston (TX)
-p2375
-tp2376
+p2372
+tp2373
 (F29.809567000000001
 F-95.422359999999998
-tp2377
+tp2374
 s(V2206 willowby dr, houston (TX)
-p2378
-tp2379
+p2375
+tp2376
 (F29.800388000000002
 F-95.438519999999997
+tp2377
+s(V1015 w 16th, houston (TX)
+p2378
+tp2379
+(F29.800046999999999
+F-95.416619999999995
 tp2380
 s(V4666 cedar, bellaire (TX)
 p2381
@@ -4760,629 +4760,629 @@ tp2382
 (F29.707875000000001
 F-95.458954000000006
 tp2383
-s(V4425 verone, bellaire (TX)
+s(V7203 crystal way, houston (TX)
 p2384
 tp2385
-(F29.697520000000001
-F-95.450383000000002
-tp2386
-s(V7203 crystal way, houston (TX)
-p2387
-tp2388
 (F29.712900999999999
 F-95.509086999999994
-tp2389
+tp2386
 s(S'Dr and 77021.csvSouth, Houston TX'
+p2387
+tp2388
+(F37.0625
+F-95.677068000000006
+tp2389
+s(S'S and Fwy, Houston TX'
 p2390
 tp2391
-(F37.0625
-F-95.677068000000006
-tp2392
-s(S'S and Fwy, Houston TX'
-p2393
-tp2394
 (F29.701723000000001
 F-95.516790999999998
-tp2395
+tp2392
 s(V1518 alexander st, houston (TX)
-p2396
-tp2397
+p2393
+tp2394
 (F29.798596
 F-95.408432000000005
-tp2398
+tp2395
 s(V4911 welford dr, bellaire (TX)
-p2399
-tp2400
+p2396
+tp2397
 (F29.696795999999999
 F-95.464894000000001
-tp2401
+tp2398
 s(V10110 forum park 245, houston (TX)
-p2402
-tp2403
+p2399
+tp2400
 (F29.671046
 F-95.554968000000002
-tp2404
+tp2401
 s(V9830 madeline alyssa ct, houston (TX)
-p2405
-tp2406
+p2402
+tp2403
 (F29.676175000000001
 F-95.435562000000004
-tp2407
+tp2404
 s(V721 w 13, houston (TX)
-p2408
-tp2409
+p2405
+tp2406
 (F29.794450000000001
 F-95.405474999999996
-tp2410
+tp2407
 s(V4511 palmetto st, bellaire (TX)
-p2411
-tp2412
+p2408
+tp2409
 (F29.711472000000001
 F-95.452775000000003
-tp2413
+tp2410
 s(V3122 blue bonnet, houston (TX)
-p2414
-tp2415
+p2411
+tp2412
 (F29.700548000000001
 F-95.429768999999993
-tp2416
+tp2413
 s(V10830 sandpiper dr, houston (TX)
-p2417
-tp2418
+p2414
+tp2415
 (F29.663374999999998
 F-95.505104000000003
-tp2419
+tp2416
 s(V6422 Lindyann Lane, Houston (TX)
-p2420
-tp2421
+p2417
+tp2418
 (F29.796686000000001
 F-95.428871999999998
-tp2422
+tp2419
 s(V1429 lawrence st, houston (TX)
-p2423
-tp2424
+p2420
+tp2421
 (F29.797162
 F-95.407838999999996
+tp2422
+s(V4425 verone, bellaire (TX)
+p2423
+tp2424
+(F29.697520000000001
+F-95.450383000000002
 tp2425
-s(V5039 lymbar dr, houston (TX)
+s(V5622 rutherglenn dr, houston (TX)
 p2426
 tp2427
-(F29.669184999999999
-F-95.466065
-tp2428
-s(V5622 rutherglenn dr, houston (TX)
-p2429
-tp2430
 (F29.673051000000001
 F-95.484057000000007
-tp2431
+tp2428
 s(V5815 wigton dr, houston (TX)
-p2432
-tp2433
+p2429
+tp2430
 (F29.669177999999999
 F-95.490598000000006
-tp2434
+tp2431
 s(V1248 w 22nd st, houston (TX)
-p2435
-tp2436
+p2432
+tp2433
 (F29.805378000000001
 F-95.422013000000007
-tp2437
-s(S'N Shepherd Dr and W 20th St, Houston TX'
-p2438
-tp2439
-(F29.803809999999999
-F-95.410149000000004
-tp2440
-s(V5301 holly st, bellaire (TX)
-p2441
-tp2442
-(F29.691959000000001
-F-95.476409000000004
-tp2443
-s(V5226 holly, bellaire (TX)
-p2444
-tp2445
-(F29.69265
-F-95.475522999999995
-tp2446
-s(V1241 w 24th st #c, houston (TX)
-p2447
-tp2448
-(F29.808093
-F-95.421959999999999
-tp2449
-s(V4321 dorothy st, bellaire (TX)
-p2450
-tp2451
-(F29.692636
-F-95.449061
-tp2452
-s(V9833 Abigail Grace Ct., Houston (TX)
-p2453
-tp2454
-(F29.676195
-F-95.433727000000005
-tp2455
-s(V8819 sharpcrest st, houston (TX)
-p2456
-tp2457
-(F29.694516
-F-95.539778999999996
-tp2458
-s(S'S Loop Fwy and Buffalo Speedway, Houston TX'
-p2459
-tp2460
-(F29.677883000000001
-F-95.424837999999994
-tp2461
-s(V9606 cliffwood, houston (TX)
-p2462
-tp2463
-(F29.678443000000001
-F-95.453333000000001
-tp2464
-s(S'Yale St and W 11th St, Houston TX'
-p2465
-tp2466
-(F29.790682
-F-95.398971000000003
-tp2467
-s(V6031 yarwell, houston (TX)
-p2468
-tp2469
-(F29.669927000000001
-F-95.496992000000006
-tp2470
-s(V1429 prince, houston (TX)
-p2471
-tp2472
-(F29.797374999999999
-F-95.413455999999996
-tp2473
-s(V1103 w 17th street, houston (TX)
-p2474
-tp2475
-(F29.801051999999999
-F-95.418412000000004
-tp2476
-s(V8823 stroud, houston (TX)
-p2477
-tp2478
-(F29.696722000000001
-F-95.536073999999999
-tp2479
-s(V2307 ella blvd, houston (TX)
-p2480
-tp2481
-(F29.806771999999999
-F-95.429294999999996
-tp2482
-s(V10706 bob white, houston (TX)
-p2483
-tp2484
-(F29.664477999999999
-F-95.501433000000006
-tp2485
-s(V1339 tulane street, houston (TX)
-p2486
-tp2487
-(F29.795728
-F-95.402692999999999
-tp2488
-s(V1431 laird st, houston (TX)
-p2489
-tp2490
-(F29.797118000000001
-F-95.411089000000004
-tp2491
-s(S'RdS and Loop, Houston TX'
-p2492
-tp2493
-(F37.0625
-F-95.677068000000006
-tp2494
-s(V1010 herkimer st, houston (TX)
-p2495
-tp2496
-(F29.789238999999998
-F-95.405843000000004
-tp2497
-s(V1336 alexander, houston (TX)
-p2498
-tp2499
-(F29.795470999999999
-F-95.408124000000001
-tp2500
-s(V8814 linkmeadow, houston (TX)
-p2501
-tp2502
-(F29.687671000000002
-F-95.435573000000005
-tp2503
-s(V1332 nicholson st, houston (TX)
-p2504
-tp2505
-(F29.795593
-F-95.405641000000003
-tp2506
-s(V1526 dian, houston (TX)
-p2507
-tp2508
-(F29.799012999999999
-F-95.414028999999999
-tp2509
-s(V1015 w 16th, houston (TX)
-p2510
-tp2511
-(F29.800046999999999
-F-95.416619999999995
-tp2512
-s(V4918 valkeith, houston (TX)
-p2513
-tp2514
-(F29.675718
-F-95.461479999999995
-tp2515
-s(V1817 15th street, houston (TX)
-p2516
-tp2517
-(F29.798082999999998
-F-95.414968999999999
-tp2518
-s(V1532 dian, houston (TX)
-p2519
-tp2520
-(F29.799095999999999
-F-95.414030999999994
-tp2521
-s(V815 w 22nd, houston (TX)
-p2522
-tp2523
-(F29.806066999999999
-F-95.413026000000002
-tp2524
-s(V5002 cheena dr, houston (TX)
-p2525
-tp2526
-(F29.67146
-F-95.465119999999999
-tp2527
-s(V4954 valkeith dr, houston (TX)
-p2528
-tp2529
-(F29.675395000000002
-F-95.464067999999997
-tp2530
-s(V5324 patrick henry st, bellaire (TX)
-p2531
-tp2532
-(F29.697868
-F-95.474461000000005
-tp2533
-s(V1530 bevis st, houston (TX)
-p2534
-tp2535
-(F29.799012999999999
-F-95.422113999999993
-tp2536
-s(S'Bellaire Blvd and W Holcombe Blvd, Houston TX'
-p2537
-tp2538
-(F29.706139
-F-95.433665000000005
-tp2539
-s(V9610 moonlight dr, houston (TX)
-p2540
-tp2541
-(F29.675460999999999
-F-95.474547000000001
-tp2542
-s(V9107 jackwood st, houston (TX)
-p2543
-tp2544
-(F29.686954
-F-95.544140999999996
-tp2545
-s(V9350 concourse, houston (TX)
-p2546
-tp2547
-(F29.682303000000001
-F-95.555670000000006
-tp2548
-s(V6135 stoney brook drive, houston (TX)
-p2549
-tp2550
-(F29.728460999999999
-F-95.506557999999998
-tp2551
-s(V518 s 3rd, bellaire (TX)
-p2552
-tp2553
-(F29.700983999999998
-F-95.467071000000004
-tp2554
-s(V6118 Claridge Dr, Houston (TX)
-p2555
-tp2556
-(F29.661642000000001
-F-95.499243000000007
-tp2557
-s(S'Buffalo Speedway and Braeswood Blvd, Houston TX'
-p2558
-tp2559
-(F29.696515999999999
-F-95.427138999999997
-tp2560
-s(V2734 glen haven blvd, houston (TX)
-p2561
-tp2562
-(F29.70112
-F-95.419559000000007
-tp2563
-s(V10119 finchwood ln, houston (TX)
-p2564
-tp2565
-(F29.679907
-F-95.555171999999999
-tp2566
-s(V4619 maple, bellaire (TX)
-p2567
-tp2568
-(F29.691047000000001
-F-95.457342999999995
-tp2569
-s(V7318 redding rd, houston (TX)
-p2570
-tp2571
-(F29.698239000000001
-F-95.536383000000001
-tp2572
-s(V842 20th st, houston (TX)
-p2573
-tp2574
-(F29.803477000000001
-F-95.414064999999994
-tp2575
-s(V4914 Imperial, Bellaire (TX)
-p2576
-tp2577
-(F29.719977
-F-95.465591000000003
-tp2578
-s(V4817 mayfair st, bellaire (TX)
-p2579
-tp2580
-(F29.718602000000001
-F-95.463545999999994
-tp2581
-s(V717 13th 1/2 st, houston (TX)
-p2582
-tp2583
-(F29.795698000000002
-F-95.389218
-tp2584
-s(V10811 chimney rock rd, houston (TX)
-p2585
-tp2586
-(F29.663214
-F-95.476056999999997
-tp2587
-s(V702 algregg, houston (TX)
-p2588
-tp2589
-(F29.796834
-F-95.390797000000006
-tp2590
-s(V7906 Mobud, Houston (TX)
-p2591
-tp2592
-(F29.702717
-F-95.525679999999994
-tp2593
-s(V5247 braesvalley, houston (TX)
-p2594
-tp2595
-(F29.678849
-F-95.475924000000006
-tp2596
-s(V5839 braeswood blvd, houston (TX)
-p2597
-tp2598
-(F29.678885000000001
-F-95.494140000000002
-tp2599
-s(V5938 willowbend blvd, houston (TX)
-p2600
-tp2601
-(F29.666616000000001
-F-95.494423999999995
-tp2602
-s(V5206 grape, houston (TX)
-p2603
-tp2604
-(F29.686024
-F-95.473806999999994
-tp2605
-s(V1438 Prince, Houston (TX)
-p2606
-tp2607
-(F29.797702999999998
-F-95.412992000000003
-tp2608
-s(S'77008.csvN and Loop, Houston TX'
-p2609
-tp2610
-(F37.0625
-F-95.677068000000006
-tp2611
-s(V3765 drummond st, houston (TX)
-p2612
-tp2613
-(F29.695737000000001
-F-95.437071000000003
-tp2614
-s(S'Bissonnet St and Community Dr, Houston TX'
-p2615
-tp2616
-(F29.718333000000001
-F-95.447049000000007
-tp2617
-s(V1139 wynnwood ln, houston (TX)
-p2618
-tp2619
-(F29.794516999999999
-F-95.419916999999998
-tp2620
-s(V6110 lymbar, houston (TX)
-p2621
-tp2622
-(F29.667922000000001
-F-95.498653000000004
-tp2623
-s(V3122 heritage creek oaks, houston (TX)
-p2624
-tp2625
-(F29.792134999999998
-F-95.432734999999994
-tp2626
-s(V718 east 20th street, houston (TX)
-p2627
-tp2628
-(F29.803806999999999
-F-95.389116000000001
-tp2629
-s(V3862 gramercy, houston (TX)
-p2630
-tp2631
-(F29.704937999999999
-F-95.439958000000004
-tp2632
-s(V713 w 12th, houston (TX)
-p2633
-tp2634
-(F29.792448
-F-95.404943000000003
-tp2635
-s(V1310 nicholson, houston (TX)
-p2636
-tp2637
-(F29.794633999999999
-F-95.405478000000002
-tp2638
-s(V9275 buffalo speedway, houston (TX)
-p2639
-tp2640
-(F29.685051000000001
-F-95.425118999999995
-tp2641
-s(S'FwyYellowstone and BlvdScott, Houston TX'
-p2642
-tp2643
-(F37.0625
-F-95.677068000000006
-tp2644
-s(V3706 durhill st, houston (TX)
-p2645
-tp2646
-(F29.6845
-F-95.435601000000005
-tp2647
-s(V1013 mulberry, bellaire (TX)
-p2648
-tp2649
-(F29.717908999999999
-F-95.449881000000005
-tp2650
-s(V1710 lawrence st, houston (TX)
-p2651
-tp2652
-(F29.801143
-F-95.407759999999996
-tp2653
-s(V2326 beall, houston (TX)
-p2654
-tp2655
-(F29.807600999999998
-F-95.417963
-tp2656
-s(V7400 bellerive dr 1005, houston (TX)
-p2657
-tp2658
-(F29.713801
-F-95.514677000000006
-tp2659
-s(V4311 mildred st, bellaire (TX)
-p2660
-tp2661
-(F29.696849
-F-95.448170000000005
-tp2662
-s(V6742 kury ln, houston (TX)
-p2663
-tp2664
-(F29.797556
-F-95.437634000000003
-tp2665
-s(V9307 concourse dr, houston (TX)
-p2666
-tp2667
-(F29.683796000000001
-F-95.555252999999993
-tp2668
-s(V1130 w 18th, houston (TX)
-p2669
-tp2670
-(F29.801473999999999
-F-95.419638000000006
-tp2671
-s(S'StBissonnet and StCommunity, Houston TX'
-p2672
-tp2673
-(F37.0625
-F-95.677068000000006
-tp2674
-s(V4307 ione st, bellaire (TX)
-p2675
-tp2676
-(F29.703907000000001
-F-95.448098000000002
-tp2677
-s(V7907 rice ave, bellaire (TX)
-p2678
-tp2679
-(F29.694082999999999
-F-95.467321999999996
-tp2680
-s(V3126 stanton st, houston (TX)
-p2681
-tp2682
-(F29.693276000000001
-F-95.425976000000006
-tp2683
-s(V1536 nashua st, houston (TX)
-p2684
-tp2685
-(F29.799178999999999
-F-95.412233999999998
-tp2686
-s(V1115 nashua, houston (TX)
-p2687
-tp2688
-(F29.791088999999999
-F-95.412755000000004
-tp2689
-s(S'Northwest Freeway and N Loop Freeway, Houston TX'
-p2690
-tp2691
+tp2434
+s(S'N Loop Freeway and North Freeway, Houston TX'
+p2435
+tp2436
 (F29.797053999999999
 F-95.450202000000004
-tp2692
+tp2437
+s(V5301 holly st, bellaire (TX)
+p2438
+tp2439
+(F29.691959000000001
+F-95.476409000000004
+tp2440
+s(V5226 holly, bellaire (TX)
+p2441
+tp2442
+(F29.69265
+F-95.475522999999995
+tp2443
+s(V1241 w 24th st #c, houston (TX)
+p2444
+tp2445
+(F29.808093
+F-95.421959999999999
+tp2446
+s(V4321 dorothy st, bellaire (TX)
+p2447
+tp2448
+(F29.692636
+F-95.449061
+tp2449
+s(V9833 Abigail Grace Ct., Houston (TX)
+p2450
+tp2451
+(F29.676195
+F-95.433727000000005
+tp2452
+s(V8819 sharpcrest st, houston (TX)
+p2453
+tp2454
+(F29.694516
+F-95.539778999999996
+tp2455
+s(S'S Loop Fwy and Buffalo Speedway, Houston TX'
+p2456
+tp2457
+(F29.677883000000001
+F-95.424837999999994
+tp2458
+s(V9606 cliffwood, houston (TX)
+p2459
+tp2460
+(F29.678443000000001
+F-95.453333000000001
+tp2461
+s(S'Yale St and W 11th St, Houston TX'
+p2462
+tp2463
+(F29.790682
+F-95.398971000000003
+tp2464
+s(V6031 yarwell, houston (TX)
+p2465
+tp2466
+(F29.669927000000001
+F-95.496992000000006
+tp2467
+s(V1429 prince, houston (TX)
+p2468
+tp2469
+(F29.797374999999999
+F-95.413455999999996
+tp2470
+s(V1103 w 17th street, houston (TX)
+p2471
+tp2472
+(F29.801051999999999
+F-95.418412000000004
+tp2473
+s(V8823 stroud, houston (TX)
+p2474
+tp2475
+(F29.696722000000001
+F-95.536073999999999
+tp2476
+s(V1032 alexander st, houston (TX)
+p2477
+tp2478
+(F29.789823999999999
+F-95.407652999999996
+tp2479
+s(V10706 bob white, houston (TX)
+p2480
+tp2481
+(F29.664477999999999
+F-95.501433000000006
+tp2482
+s(V1339 tulane street, houston (TX)
+p2483
+tp2484
+(F29.795728
+F-95.402692999999999
+tp2485
+s(V1431 laird st, houston (TX)
+p2486
+tp2487
+(F29.797118000000001
+F-95.411089000000004
+tp2488
+s(S'RdS and Loop, Houston TX'
+p2489
+tp2490
+(F37.0625
+F-95.677068000000006
+tp2491
+s(V1010 herkimer st, houston (TX)
+p2492
+tp2493
+(F29.789238999999998
+F-95.405843000000004
+tp2494
+s(V1336 alexander, houston (TX)
+p2495
+tp2496
+(F29.795470999999999
+F-95.408124000000001
+tp2497
+s(V8814 linkmeadow, houston (TX)
+p2498
+tp2499
+(F29.687671000000002
+F-95.435573000000005
+tp2500
+s(V1332 nicholson st, houston (TX)
+p2501
+tp2502
+(F29.795593
+F-95.405641000000003
+tp2503
+s(V4409 mildred, bellaire (TX)
+p2504
+tp2505
+(F29.696826000000001
+F-95.449744999999993
+tp2506
+s(V5039 lymbar dr, houston (TX)
+p2507
+tp2508
+(F29.669184999999999
+F-95.466065
+tp2509
+s(V4918 valkeith, houston (TX)
+p2510
+tp2511
+(F29.675718
+F-95.461479999999995
+tp2512
+s(V1817 15th street, houston (TX)
+p2513
+tp2514
+(F29.798082999999998
+F-95.414968999999999
+tp2515
+s(V1532 dian, houston (TX)
+p2516
+tp2517
+(F29.799095999999999
+F-95.414030999999994
+tp2518
+s(V815 w 22nd, houston (TX)
+p2519
+tp2520
+(F29.806066999999999
+F-95.413026000000002
+tp2521
+s(V5002 cheena dr, houston (TX)
+p2522
+tp2523
+(F29.67146
+F-95.465119999999999
+tp2524
+s(V4954 valkeith dr, houston (TX)
+p2525
+tp2526
+(F29.675395000000002
+F-95.464067999999997
+tp2527
+s(V5324 patrick henry st, bellaire (TX)
+p2528
+tp2529
+(F29.697868
+F-95.474461000000005
+tp2530
+s(V1530 bevis st, houston (TX)
+p2531
+tp2532
+(F29.799012999999999
+F-95.422113999999993
+tp2533
+s(S'Bellaire Blvd and W Holcombe Blvd, Houston TX'
+p2534
+tp2535
+(F29.706139
+F-95.433665000000005
+tp2536
+s(V9610 moonlight dr, houston (TX)
+p2537
+tp2538
+(F29.675460999999999
+F-95.474547000000001
+tp2539
+s(V9107 jackwood st, houston (TX)
+p2540
+tp2541
+(F29.686954
+F-95.544140999999996
+tp2542
+s(V9350 concourse, houston (TX)
+p2543
+tp2544
+(F29.682303000000001
+F-95.555670000000006
+tp2545
+s(V6135 stoney brook drive, houston (TX)
+p2546
+tp2547
+(F29.728460999999999
+F-95.506557999999998
+tp2548
+s(V518 s 3rd, bellaire (TX)
+p2549
+tp2550
+(F29.700983999999998
+F-95.467071000000004
+tp2551
+s(V6118 Claridge Dr, Houston (TX)
+p2552
+tp2553
+(F29.661642000000001
+F-95.499243000000007
+tp2554
+s(S'Buffalo Speedway and Braeswood Blvd, Houston TX'
+p2555
+tp2556
+(F29.696515999999999
+F-95.427138999999997
+tp2557
+s(V2734 glen haven blvd, houston (TX)
+p2558
+tp2559
+(F29.70112
+F-95.419559000000007
+tp2560
+s(V10119 finchwood ln, houston (TX)
+p2561
+tp2562
+(F29.679907
+F-95.555171999999999
+tp2563
+s(V4619 maple, bellaire (TX)
+p2564
+tp2565
+(F29.691047000000001
+F-95.457342999999995
+tp2566
+s(V7318 redding rd, houston (TX)
+p2567
+tp2568
+(F29.698239000000001
+F-95.536383000000001
+tp2569
+s(V842 20th st, houston (TX)
+p2570
+tp2571
+(F29.803477000000001
+F-95.414064999999994
+tp2572
+s(V4914 Imperial, Bellaire (TX)
+p2573
+tp2574
+(F29.719977
+F-95.465591000000003
+tp2575
+s(V4817 mayfair st, bellaire (TX)
+p2576
+tp2577
+(F29.718602000000001
+F-95.463545999999994
+tp2578
+s(V717 13th 1/2 st, houston (TX)
+p2579
+tp2580
+(F29.795698000000002
+F-95.389218
+tp2581
+s(V10811 chimney rock rd, houston (TX)
+p2582
+tp2583
+(F29.663214
+F-95.476056999999997
+tp2584
+s(V702 algregg, houston (TX)
+p2585
+tp2586
+(F29.796834
+F-95.390797000000006
+tp2587
+s(V7906 Mobud, Houston (TX)
+p2588
+tp2589
+(F29.702717
+F-95.525679999999994
+tp2590
+s(V5247 braesvalley, houston (TX)
+p2591
+tp2592
+(F29.678849
+F-95.475924000000006
+tp2593
+s(V5839 braeswood blvd, houston (TX)
+p2594
+tp2595
+(F29.678885000000001
+F-95.494140000000002
+tp2596
+s(V5938 willowbend blvd, houston (TX)
+p2597
+tp2598
+(F29.666616000000001
+F-95.494423999999995
+tp2599
+s(V5206 grape, houston (TX)
+p2600
+tp2601
+(F29.686024
+F-95.473806999999994
+tp2602
+s(V1438 Prince, Houston (TX)
+p2603
+tp2604
+(F29.797702999999998
+F-95.412992000000003
+tp2605
+s(S'77008.csvN and Loop, Houston TX'
+p2606
+tp2607
+(F37.0625
+F-95.677068000000006
+tp2608
+s(V3765 drummond st, houston (TX)
+p2609
+tp2610
+(F29.695737000000001
+F-95.437071000000003
+tp2611
+s(S'Bissonnet St and Community Dr, Houston TX'
+p2612
+tp2613
+(F29.718333000000001
+F-95.447049000000007
+tp2614
+s(V1139 wynnwood ln, houston (TX)
+p2615
+tp2616
+(F29.794516999999999
+F-95.419916999999998
+tp2617
+s(V6110 lymbar, houston (TX)
+p2618
+tp2619
+(F29.667922000000001
+F-95.498653000000004
+tp2620
+s(V3122 heritage creek oaks, houston (TX)
+p2621
+tp2622
+(F29.792134999999998
+F-95.432734999999994
+tp2623
+s(V741 e 13th st, houston (TX)
+p2624
+tp2625
+(F29.794791
+F-95.388255000000001
+tp2626
+s(V3862 gramercy, houston (TX)
+p2627
+tp2628
+(F29.704937999999999
+F-95.439958000000004
+tp2629
+s(V713 w 12th, houston (TX)
+p2630
+tp2631
+(F29.792448
+F-95.404943000000003
+tp2632
+s(V1310 nicholson, houston (TX)
+p2633
+tp2634
+(F29.794633999999999
+F-95.405478000000002
+tp2635
+s(V9275 buffalo speedway, houston (TX)
+p2636
+tp2637
+(F29.685051000000001
+F-95.425118999999995
+tp2638
+s(S'FwyYellowstone and BlvdScott, Houston TX'
+p2639
+tp2640
+(F37.0625
+F-95.677068000000006
+tp2641
+s(V3706 durhill st, houston (TX)
+p2642
+tp2643
+(F29.6845
+F-95.435601000000005
+tp2644
+s(V1013 mulberry, bellaire (TX)
+p2645
+tp2646
+(F29.717908999999999
+F-95.449881000000005
+tp2647
+s(V1710 lawrence st, houston (TX)
+p2648
+tp2649
+(F29.801143
+F-95.407759999999996
+tp2650
+s(V2326 beall, houston (TX)
+p2651
+tp2652
+(F29.807600999999998
+F-95.417963
+tp2653
+s(V7400 bellerive dr 1005, houston (TX)
+p2654
+tp2655
+(F29.713801
+F-95.514677000000006
+tp2656
+s(V4311 mildred st, bellaire (TX)
+p2657
+tp2658
+(F29.696849
+F-95.448170000000005
+tp2659
+s(V6742 kury ln, houston (TX)
+p2660
+tp2661
+(F29.797556
+F-95.437634000000003
+tp2662
+s(V9307 concourse dr, houston (TX)
+p2663
+tp2664
+(F29.683796000000001
+F-95.555252999999993
+tp2665
+s(V1130 w 18th, houston (TX)
+p2666
+tp2667
+(F29.801473999999999
+F-95.419638000000006
+tp2668
+s(S'StBissonnet and StCommunity, Houston TX'
+p2669
+tp2670
+(F37.0625
+F-95.677068000000006
+tp2671
+s(V4307 ione st, bellaire (TX)
+p2672
+tp2673
+(F29.703907000000001
+F-95.448098000000002
+tp2674
+s(V7907 rice ave, bellaire (TX)
+p2675
+tp2676
+(F29.694082999999999
+F-95.467321999999996
+tp2677
+s(V3126 stanton st, houston (TX)
+p2678
+tp2679
+(F29.693276000000001
+F-95.425976000000006
+tp2680
+s(V1536 nashua st, houston (TX)
+p2681
+tp2682
+(F29.799178999999999
+F-95.412233999999998
+tp2683
+s(V1115 nashua, houston (TX)
+p2684
+tp2685
+(F29.791088999999999
+F-95.412755000000004
+tp2686
+s(S'Northwest Freeway and N Loop Freeway, Houston TX'
+p2687
+tp2688
+(F29.797053999999999
+F-95.450202000000004
+tp2689
 s(S'St and BlvdStella, Houston TX'
-p2693
-tp2694
+p2690
+tp2691
 (F29.705891000000001
 F-95.439171000000002
+tp2692
+s(V8510 prichett dr, houston (TX)
+p2693
+tp2694
+(F29.688251999999999
+F-95.471221
 tp2695
 s(V1538 dorothy, houston (TX)
 p2696
@@ -5450,11 +5450,11 @@ tp2727
 (F29.687139999999999
 F-95.469571000000002
 tp2728
-s(V118 e 26th, houston (TX)
+s(V3819 grennoch, houston (TX)
 p2729
 tp2730
-(F29.810312
-F-95.397678999999997
+(F29.694882
+F-95.438281000000003
 tp2731
 s(V1128 rutland street, houston (TX)
 p2732
@@ -5486,11 +5486,11 @@ tp2745
 (F29.676601000000002
 F-95.502122999999997
 tp2746
-s(V1004 yale, houston (TX)
+s(V606 w 28th st, houston (TX)
 p2747
 tp2748
-(F29.789083999999999
-F-95.398700000000005
+(F29.811644999999999
+F-95.408540000000002
 tp2749
 s(V2016 singleton, houston (TX)
 p2750
@@ -5720,11 +5720,11 @@ tp2862
 (F29.666689999999999
 F-95.488247000000001
 tp2863
-s(V8510 prichett dr, houston (TX)
+s(V1004 yale, houston (TX)
 p2864
 tp2865
-(F29.688251999999999
-F-95.471221
+(F29.789083999999999
+F-95.398700000000005
 tp2866
 s(S'StBuffalo and Speedway, Houston TX'
 p2867

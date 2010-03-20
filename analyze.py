@@ -1,14 +1,5 @@
 from filter import Filter
 
-#filter = Filter("77005.csv", "Bellaire Blvd", "Stella Link Rd", "Weslayan St", "Bissonnet St", "Community Dr")
-#filter = Filter("77021.csv", "South Fwy", "Yellowstone Blvd", "Scott St", "Mainer St")
-#filter = Filter("77401.csv", "Beechnut St", "S Rice Ave", "Bellaire Blvd", "W Loop S Fwy")
-#filter = Filter("77025.csv", "Braeswood Blvd", "Stella Link Rd", "S Loop Fwy", "Buffalo Speedway")
-#filter = Filter("77025.csv", "Bellaire Blvd", "W Holcombe Blvd", "Buffalo Speedway", "Braeswood Blvd", "Stella Link Rd")
-#filter = Filter("77005.csv", "University Blvd", "Kirby Dr", "Bissonnet St", "Buffalo Speedway")
-#filter = Filter("77008.csv", "N Loop Freeway", "North Freeway", "Katy Freeway")#, "Northwest Freeway")
-#filter = Filter("77008.csv", "N Shepherd Dr", "W 20th St", "Yale St", "W 11th St")
-
 def analyze(filter):
     sink = filter()
     
