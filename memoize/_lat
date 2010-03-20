@@ -23,508 +23,604 @@ tp11
 (F29.712536
 F-95.483452
 tp12
-s(V5408 aspen, houston (TX)
+s(V5418 huisache st, houston (TX)
 p13
 tp14
-(F29.701346000000001
-F-95.475154000000003
-tp15
-s(V7619 pine ridge terrace, houston (TX)
-p16
-tp17
-(F29.695668999999999
-F-95.486374999999995
-tp18
-s(V5518 valerie st, houston (TX)
-p19
-tp20
-(F29.693774999999999
-F-95.487781999999996
-tp21
-s(S'Bissonnet St and Buffalo Speedway, Houston TX'
-p22
-tp23
-(F29.725390000000001
-F-95.427837499999995
-tp24
-s(S'Stella Link Rd and S Loop Fwy, Houston TX'
-p25
-tp26
-(F29.6790156
-F-95.440075500000006
-tp27
-s(S'Stella Link Rd and Bellaire Blvd, Houston TX'
-p28
-tp29
-(F29.7060596
-F-95.440115899999995
-tp30
-s(V5527 aspen, houston (TX)
-p31
-tp32
-(F29.699805000000001
-F-95.478628999999998
-tp33
-s(V5514 kian ct, houston (TX)
-p34
-tp35
-(F29.695822
-F-95.486635000000007
-tp36
-s(S'Katy Freeway and N Loop Freeway, Houston TX'
-p37
-tp38
-(F29.813865700000001
-F-95.358482300000006
-tp39
-s(S'S Rice Ave and Rutherglenn Dr, Houston TX'
-p40
-tp41
-(F29.673950000000001
-F-95.468877000000006
-tp42
-s(S'Stella Link Rd and Weslayan St, Houston TX'
-p43
-tp44
-(F29.708434
-F-95.441056000000003
-tp45
-s(S'Beechnut St and Chimney Rock Rd, Houston TX'
-p46
-tp47
-(F29.689093400000001
-F-95.476401100000004
-tp48
-s(V5626 hazen st, houston (TX)
-p49
-tp50
-(F29.691886
-F-95.489829
-tp51
-s(S'W 11th St and N Shepherd Dr, Houston TX'
-p52
-tp53
-(F29.790438600000002
-F-95.409888199999997
-tp54
-s(S'Bellaire Blvd and W Loop S Fwy, Houston TX'
-p55
-tp56
-(F29.7056878
-F-95.459767999999997
-tp57
-s(V5510 aspen st, houston (TX)
-p58
-tp59
-(F29.700945000000001
-F-95.477406999999999
-tp60
-s(S'University Blvd and Kirby Dr, Houston TX'
-p61
-tp62
-(F29.715065899999999
-F-95.418422300000003
-tp63
-s(V5418 huisache st, houston (TX)
-p64
-tp65
 (F29.700419
 F-95.475984999999994
-tp66
-s(S'Greenbriar St and University Blvd, Houston TX'
-p67
-tp68
-(F29.715107
-F-95.412671000000003
-tp69
-s(S'Weslayan St and University Blvd, Houston TX'
-p70
-tp71
-(F29.714528000000001
-F-95.441146000000003
-tp72
-s(V6010 MOONMIST DR, Houston (TX)
-p73
-tp74
-(F29.711224999999999
-F-95.487425999999999
-tp75
-s(S'Hillcroft St and Beechnut St, Houston TX'
-p76
-tp77
-(F29.688344000000001
-F-95.492546399999995
-tp78
-s(S'Braeswood Blvd and Stella Link Rd, Houston TX'
-p79
-tp80
+tp15
+s(S'Stella Link Rd and Braeswood Blvd, Houston TX'
+p16
+tp17
 (F29.691594800000001
 F-95.440157600000006
-tp81
-s(S'Rutherglenn Dr and Chimney Rock Rd, Houston TX'
-p82
-tp83
-(F29.6733066
-F-95.476387299999999
-tp84
-s(S'University Blvd and Weslayan St, Houston TX'
-p85
-tp86
-(F29.714528000000001
-F-95.441146000000003
-tp87
-s(S'Chimney Rock Rd and N Braeswood Blvd, Houston TX'
-p88
-tp89
-(F29.6780072
-F-95.4769127
-tp90
-s(V5523 alanneil, houston (TX)
-p91
-tp92
-(F29.696185
-F-95.486628499999995
-tp93
-s(S'University Blvd and Buffalo Speedway, Houston TX'
-p94
-tp95
-(F29.7149778
-F-95.427656299999995
-tp96
-s(S'Bissonnet St and Greenbriar St, Houston TX'
-p97
-tp98
-(F29.725550999999999
-F-95.412792999999994
-tp99
-s(S'Scott St and Mainer St, Houston TX'
-p100
-tp101
-(F29.683089599999999
-F-95.365728399999995
-tp102
-s(V5541 valerie, houston (TX)
-p103
-tp104
-(F29.693069000000001
-F-95.487795000000006
-tp105
-s(V5674 hazen st, houston (TX)
-p106
-tp107
-(F29.691856000000001
-F-95.492684999999994
-tp108
-s(S'W Holcombe Blvd and Stella Link Rd, Houston TX'
-p109
-tp110
-(F29.684790400000001
-F-95.439930899999993
-tp111
-s(V5416 aspen st, houston (TX)
-p112
-tp113
-(F29.701331
-F-95.475987000000003
-tp114
-s(S'Rice Blvd and S Shepherd Dr, Houston TX'
-p115
-tp116
-(F29.718540999999998
-F-95.408966000000007
-tp117
-s(V5415 jessamine st, houston (TX)
-p118
-tp119
-(F29.701667
-F-95.475780999999998
-tp120
-s(S'Chimney Rock Rd and S Braeswood Blvd, Houston TX'
-p121
-tp122
-(F29.677045199999998
-F-95.476406400000002
-tp123
-s(S'N Shepherd Dr and W 20th St, Houston TX'
-p124
-tp125
-(F29.803809999999999
-F-95.410149000000004
-tp126
-s(S'S Rice Ave and Bellaire Blvd, Houston TX'
-p127
-tp128
-(F29.7054884
-F-95.467934
-tp129
-s(S'Buffalo Speedway and W Holcombe Blvd, Houston TX'
-p130
-tp131
-(F29.706174799999999
-F-95.427356099999997
-tp132
-s(S'S Loop Fwy and Buffalo Speedway, Houston TX'
-p133
-tp134
-(F29.677083100000001
-F-95.424860800000005
-tp135
-s(V5634 hazen, houston (TX)
-p136
-tp137
-(F29.691880999999999
-F-95.490302
-tp138
-s(V5404 evergreen, houston (TX)
-p139
-tp140
-(F29.698646
-F-95.474642000000003
-tp141
-s(S'Yale St and W 11th St, Houston TX'
-p142
-tp143
-(F29.790682
-F-95.398971000000003
-tp144
-s(V7611 pine ridge terrace, houston (TX)
-p145
-tp146
-(F29.695875000000001
-F-95.486349000000004
-tp147
-s(S'Yellowstone Blvd and Scott St, Houston TX'
-p148
-tp149
-(F29.6936058
-F-95.361726099999998
-tp150
-s(S'Renwick Dr and Gulfton Dr, Houston TX'
-p151
-tp152
-(F29.716470600000001
-F-95.484749699999995
-tp153
-s(S'Gulfton Dr and Chimney Rock Rd, Houston TX'
-p154
-tp155
-(F29.716543999999999
-F-95.476366400000003
-tp156
-s(V5503 edith st, houston (TX)
-p157
-tp158
-(F29.689807999999999
-F-95.484718000000001
-tp159
-s(V6014 de moss dr, houston (TX)
-p160
-tp161
-(F29.708262000000001
-F-95.487735000000001
-tp162
-s(S'Bellaire Blvd and W Holcombe Blvd, Houston TX'
-p163
-tp164
-(F29.705965299999999
-F-95.433661099999995
-tp165
-s(S'S Braeswood Blvd and S Rice Ave, Houston TX'
-p166
-tp167
-(F29.678270399999999
-F-95.467752500000003
-tp168
-s(S'Chimney Rock Rd and Bellaire Blvd, Houston TX'
-p169
-tp170
-(F29.705526200000001
-F-95.476343600000007
-tp171
-s(S'South Fwy and Yellowstone Blvd, Houston TX'
-p172
-tp173
-(F29.693558800000002
-F-95.3616131
-tp174
-s(S'Kirby Dr and Bissonnet St, Houston TX'
-p175
-tp176
-(F29.725545700000001
-F-95.418580300000002
-tp177
-s(S'W Holcombe Blvd and Buffalo Speedway, Houston TX'
-p178
-tp179
-(F29.706174799999999
-F-95.427356099999997
-tp180
-s(V5500 valerie st, houston (TX)
-p181
-tp182
-(F29.693784999999998
-F-95.484813000000003
-tp183
-s(S'S Shepherd Dr and Bissonnet St, Houston TX'
-p184
-tp185
-(F29.725583
-F-95.410527999999999
-tp186
-s(S'Bissonnet St and Community Dr, Houston TX'
-p187
-tp188
-(F29.718333000000001
-F-95.447049500000006
-tp189
-s(S'Bellaire Blvd and Renwick Dr, Houston TX'
-p190
-tp191
-(F29.705626899999999
-F-95.484597199999996
-tp192
-s(S'Kirby Dr and W Holcombe Blvd, Houston TX'
-p193
-tp194
-(F29.706242599999999
-F-95.418347100000005
-tp195
-s(V5934 clarewood dr, houston (TX)
-p196
-tp197
-(F29.709417999999999
-F-95.486583899999999
-tp198
-s(S'Community Dr and Bellaire Blvd, Houston TX'
-p199
-tp200
-(F29.704683500000002
-F-95.552725800000005
-tp201
-s(V5519 felice, houston (TX)
-p202
-tp203
-(F29.694814999999998
-F-95.486841999999996
-tp204
-s(S'North Freeway and Katy Freeway, Houston TX'
-p205
-tp206
-(F29.784357400000001
-F-95.579360899999998
-tp207
-s(V5540 aspen st, houston (TX)
-p208
-tp209
-(F29.699707
-F-95.479885899999999
-tp210
-s(S'N Braeswood Blvd and Hillcroft St, Houston TX'
-p211
-tp212
-(F29.678665500000001
-F-95.493097599999999
-tp213
-s(S'Buffalo Speedway and University Blvd, Houston TX'
-p214
-tp215
-(F29.7149778
-F-95.427656299999995
-tp216
-s(S'Beechnut St and S Rice Ave, Houston TX'
-p217
-tp218
-(F29.689077600000001
-F-95.467534499999999
-tp219
-s(V5527 alanneil, houston (TX)
-p220
-tp221
-(F29.696185
-F-95.486628499999995
-tp222
-s(V5544 aspen st, houston (TX)
-p223
-tp224
-(F29.699349000000002
-F-95.480064999999996
-tp225
-s(S'Greenbriar St and Rice Blvd, Houston TX'
-p226
-tp227
-(F29.717485
-F-95.412715000000006
-tp228
-s(V5502 evergreen st, houston (TX)
-p229
-tp230
-(F29.698622
-F-95.476635999999999
-tp231
-s(V5525 jessamine st, houston (TX)
-p232
-tp233
-(F29.700755999999998
-F-95.478474000000006
-tp234
-s(S'N Loop Freeway and North Freeway, Houston TX'
-p235
-tp236
-(F29.7970541
-F-95.450202200000007
-tp237
-s(V5509 aspen, houston (TX)
-p238
-tp239
-(F29.700568000000001
-F-95.477153000000001
-tp240
-s(S'Mainer St and South Fwy, Houston TX'
-p241
-tp242
-(F29.7115227
-F-95.209546599999996
-tp243
-s(V5531 edith, houston (TX)
-p244
-tp245
-(F29.689796000000001
-F-95.486508999999998
-tp246
-s(S'W 20th St and Yale St, Houston TX'
-p247
-tp248
-(F29.803958999999999
-F-95.399215999999996
-tp249
-s(S'Buffalo Speedway and Braeswood Blvd, Houston TX'
-p250
-tp251
-(F29.696395500000001
-F-95.427112500000007
-tp252
-s(V5647 edith, houston (TX)
-p253
-tp254
-(F29.689671000000001
-F-95.491050000000001
-tp255
-s(S'Bellaire Blvd and Stella Link Rd, Houston TX'
-p256
-tp257
+tp18
+s(V5408 aspen, houston (TX)
+p19
+tp20
+(F29.701346000000001
+F-95.475154000000003
+tp21
+s(V7619 pine ridge terrace, houston (TX)
+p22
+tp23
+(F29.695668999999999
+F-95.486374999999995
+tp24
+s(S'Chimney Rock Rd and Bissonnet St, Houston TX'
+p25
+tp26
+(F29.703374400000001
+F-95.476190000000003
+tp27
+s(S'Newcastle St and Beechnut St, Houston TX'
+p28
+tp29
+(F29.689232000000001
+F-95.451042299999997
+tp30
+s(V5518 valerie st, houston (TX)
+p31
+tp32
+(F29.693774999999999
+F-95.487781999999996
+tp33
+s(S'Bissonnet St and Buffalo Speedway, Houston TX'
+p34
+tp35
+(F29.725390000000001
+F-95.427837499999995
+tp36
+s(S'Stella Link Rd and S Loop Fwy, Houston TX'
+p37
+tp38
+(F29.6790156
+F-95.440075500000006
+tp39
+s(S'Stella Link Rd and Bellaire Blvd, Houston TX'
+p40
+tp41
 (F29.7060596
 F-95.440115899999995
+tp42
+s(V5527 aspen, houston (TX)
+p43
+tp44
+(F29.699805000000001
+F-95.478628999999998
+tp45
+s(S'Bellaire Blvd and Newcastle St, Houston TX'
+p46
+tp47
+(F29.705793700000001
+F-95.451284799999996
+tp48
+s(V5514 kian ct, houston (TX)
+p49
+tp50
+(F29.695822
+F-95.486635000000007
+tp51
+s(S'Katy Freeway and N Loop Freeway, Houston TX'
+p52
+tp53
+(F29.813865700000001
+F-95.358482300000006
+tp54
+s(S'S Rice Ave and Rutherglenn Dr, Houston TX'
+p55
+tp56
+(F29.673950000000001
+F-95.468877000000006
+tp57
+s(S'Stella Link Rd and Weslayan St, Houston TX'
+p58
+tp59
+(F29.708434
+F-95.441056000000003
+tp60
+s(S'Beechnut St and Chimney Rock Rd, Houston TX'
+p61
+tp62
+(F29.689093400000001
+F-95.476401100000004
+tp63
+s(V5626 hazen st, houston (TX)
+p64
+tp65
+(F29.691886
+F-95.489829
+tp66
+s(S'W 11th St and N Shepherd Dr, Houston TX'
+p67
+tp68
+(F29.790438600000002
+F-95.409888199999997
+tp69
+s(S'Bellaire Blvd and W Loop S Fwy, Houston TX'
+p70
+tp71
+(F29.7056878
+F-95.459767999999997
+tp72
+s(V5510 aspen st, houston (TX)
+p73
+tp74
+(F29.700945000000001
+F-95.477406999999999
+tp75
+s(S'University Blvd and Kirby Dr, Houston TX'
+p76
+tp77
+(F29.715065899999999
+F-95.418422300000003
+tp78
+s(S'Bellaire Blvd and Renwick Dr, Houston TX'
+p79
+tp80
+(F29.705626899999999
+F-95.484597199999996
+tp81
+s(S'Greenbriar St and University Blvd, Houston TX'
+p82
+tp83
+(F29.715107
+F-95.412671000000003
+tp84
+s(S'Newcastle St and Bellaire Blvd, Houston TX'
+p85
+tp86
+(F29.705793700000001
+F-95.451284799999996
+tp87
+s(S'Weslayan St and University Blvd, Houston TX'
+p88
+tp89
+(F29.714528000000001
+F-95.441146000000003
+tp90
+s(V6010 MOONMIST DR, Houston (TX)
+p91
+tp92
+(F29.711224999999999
+F-95.487425999999999
+tp93
+s(S'Hillcroft St and Beechnut St, Houston TX'
+p94
+tp95
+(F29.688344000000001
+F-95.492546399999995
+tp96
+s(S'Beechnut St and Renwick Dr, Houston TX'
+p97
+tp98
+(F29.688973499999999
+F-95.484364799999994
+tp99
+s(S'Braeswood Blvd and Stella Link Rd, Houston TX'
+p100
+tp101
+(F29.691594800000001
+F-95.440157600000006
+tp102
+s(S'Rutherglenn Dr and Chimney Rock Rd, Houston TX'
+p103
+tp104
+(F29.6733066
+F-95.476387299999999
+tp105
+s(S'University Blvd and Weslayan St, Houston TX'
+p106
+tp107
+(F29.714528000000001
+F-95.441146000000003
+tp108
+s(S'Chimney Rock Rd and N Braeswood Blvd, Houston TX'
+p109
+tp110
+(F29.6780072
+F-95.4769127
+tp111
+s(V5523 alanneil, houston (TX)
+p112
+tp113
+(F29.696185
+F-95.486628499999995
+tp114
+s(S'University Blvd and Buffalo Speedway, Houston TX'
+p115
+tp116
+(F29.7149778
+F-95.427656299999995
+tp117
+s(S'Bissonnet St and Greenbriar St, Houston TX'
+p118
+tp119
+(F29.725550999999999
+F-95.412792999999994
+tp120
+s(S'Scott St and Mainer St, Houston TX'
+p121
+tp122
+(F29.683089599999999
+F-95.365728399999995
+tp123
+s(V5541 valerie, houston (TX)
+p124
+tp125
+(F29.693069000000001
+F-95.487795000000006
+tp126
+s(V5674 hazen st, houston (TX)
+p127
+tp128
+(F29.691856000000001
+F-95.492684999999994
+tp129
+s(S'W Holcombe Blvd and Stella Link Rd, Houston TX'
+p130
+tp131
+(F29.684790400000001
+F-95.439930899999993
+tp132
+s(V5416 aspen st, houston (TX)
+p133
+tp134
+(F29.701331
+F-95.475987000000003
+tp135
+s(S'Rice Blvd and S Shepherd Dr, Houston TX'
+p136
+tp137
+(F29.718540999999998
+F-95.408966000000007
+tp138
+s(V5415 jessamine st, houston (TX)
+p139
+tp140
+(F29.701667
+F-95.475780999999998
+tp141
+s(S'Chimney Rock Rd and S Braeswood Blvd, Houston TX'
+p142
+tp143
+(F29.677045199999998
+F-95.476406400000002
+tp144
+s(S'N Shepherd Dr and W 20th St, Houston TX'
+p145
+tp146
+(F29.803809999999999
+F-95.410149000000004
+tp147
+s(S'S Rice Ave and Bellaire Blvd, Houston TX'
+p148
+tp149
+(F29.7054884
+F-95.467934
+tp150
+s(S'Buffalo Speedway and W Holcombe Blvd, Houston TX'
+p151
+tp152
+(F29.706174799999999
+F-95.427356099999997
+tp153
+s(S'S Loop Fwy and Buffalo Speedway, Houston TX'
+p154
+tp155
+(F29.677083100000001
+F-95.424860800000005
+tp156
+s(V5634 hazen, houston (TX)
+p157
+tp158
+(F29.691880999999999
+F-95.490302
+tp159
+s(V5404 evergreen, houston (TX)
+p160
+tp161
+(F29.698646
+F-95.474642000000003
+tp162
+s(S'Yale St and W 11th St, Houston TX'
+p163
+tp164
+(F29.790682
+F-95.398971000000003
+tp165
+s(S'Renwick Dr and Bellaire Blvd, Houston TX'
+p166
+tp167
+(F29.705626899999999
+F-95.484597199999996
+tp168
+s(S'Beechnut St and S Rice Ave, Houston TX'
+p169
+tp170
+(F29.689077600000001
+F-95.467534499999999
+tp171
+s(S'Braeswood Blvd and Beechnut St, Houston TX'
+p172
+tp173
+(F29.690072300000001
+F-95.447053699999998
+tp174
+s(S'Yellowstone Blvd and Scott St, Houston TX'
+p175
+tp176
+(F29.6936058
+F-95.361726099999998
+tp177
+s(S'Renwick Dr and Gulfton Dr, Houston TX'
+p178
+tp179
+(F29.716470600000001
+F-95.484749699999995
+tp180
+s(S'Gulfton Dr and Chimney Rock Rd, Houston TX'
+p181
+tp182
+(F29.716543999999999
+F-95.476366400000003
+tp183
+s(V5503 edith st, houston (TX)
+p184
+tp185
+(F29.689807999999999
+F-95.484718000000001
+tp186
+s(V6014 de moss dr, houston (TX)
+p187
+tp188
+(F29.708262000000001
+F-95.487735000000001
+tp189
+s(S'Gulfton St and S Rice Ave, Houston TX'
+p190
+tp191
+(F29.716555100000001
+F-95.468065600000003
+tp192
+s(S'Chimney Rock Rd and Beechnut St, Houston TX'
+p193
+tp194
+(F29.689093400000001
+F-95.476401100000004
+tp195
+s(S'Bellaire Blvd and W Holcombe Blvd, Houston TX'
+p196
+tp197
+(F29.705965299999999
+F-95.433661099999995
+tp198
+s(S'S Braeswood Blvd and S Rice Ave, Houston TX'
+p199
+tp200
+(F29.678270399999999
+F-95.467752500000003
+tp201
+s(S'Chimney Rock Rd and Bellaire Blvd, Houston TX'
+p202
+tp203
+(F29.705526200000001
+F-95.476343600000007
+tp204
+s(S'South Fwy and Yellowstone Blvd, Houston TX'
+p205
+tp206
+(F29.693558800000002
+F-95.3616131
+tp207
+s(S'Chimney Rock Rd and Gulfton St, Houston TX'
+p208
+tp209
+(F29.716543999999999
+F-95.476366400000003
+tp210
+s(V7611 pine ridge terrace, houston (TX)
+p211
+tp212
+(F29.695875000000001
+F-95.486349000000004
+tp213
+s(S'W Holcombe Blvd and Buffalo Speedway, Houston TX'
+p214
+tp215
+(F29.706174799999999
+F-95.427356099999997
+tp216
+s(V5500 valerie st, houston (TX)
+p217
+tp218
+(F29.693784999999998
+F-95.484813000000003
+tp219
+s(S'S Shepherd Dr and Bissonnet St, Houston TX'
+p220
+tp221
+(F29.725583
+F-95.410527999999999
+tp222
+s(S'Bissonnet St and Community Dr, Houston TX'
+p223
+tp224
+(F29.718333000000001
+F-95.447049500000006
+tp225
+s(S'Kirby Dr and W Holcombe Blvd, Houston TX'
+p226
+tp227
+(F29.706242599999999
+F-95.418347100000005
+tp228
+s(V5934 clarewood dr, houston (TX)
+p229
+tp230
+(F29.709417999999999
+F-95.486583899999999
+tp231
+s(S'Community Dr and Bellaire Blvd, Houston TX'
+p232
+tp233
+(F29.704683500000002
+F-95.552725800000005
+tp234
+s(S'Bissonnet St and Renwick Dr, Houston TX'
+p235
+tp236
+(F29.699251700000001
+F-95.484497500000003
+tp237
+s(V5519 felice, houston (TX)
+p238
+tp239
+(F29.694814999999998
+F-95.486841999999996
+tp240
+s(S'North Freeway and Katy Freeway, Houston TX'
+p241
+tp242
+(F29.784357400000001
+F-95.579360899999998
+tp243
+s(V5540 aspen st, houston (TX)
+p244
+tp245
+(F29.699707
+F-95.479885899999999
+tp246
+s(S'N Braeswood Blvd and Hillcroft St, Houston TX'
+p247
+tp248
+(F29.678665500000001
+F-95.493097599999999
+tp249
+s(S'Bellaire Blvd and Chimney Rock Rd, Houston TX'
+p250
+tp251
+(F29.705526200000001
+F-95.476343600000007
+tp252
+s(S'Buffalo Speedway and University Blvd, Houston TX'
+p253
+tp254
+(F29.7149778
+F-95.427656299999995
+tp255
+s(S'W Loop Fwy and Bellaire Blvd, Houston TX'
+p256
+tp257
+(F29.7056878
+F-95.459767999999997
 tp258
-s(V5907 high star, houston (TX)
+s(V5527 alanneil, houston (TX)
 p259
 tp260
-(F29.711594999999999
-F-95.485189000000005
+(F29.696185
+F-95.486628499999995
 tp261
-s(S'W Loop S Fwy and Beechnut St, Houston TX'
+s(V5544 aspen st, houston (TX)
 p262
 tp263
+(F29.699349000000002
+F-95.480064999999996
+tp264
+s(S'Greenbriar St and Rice Blvd, Houston TX'
+p265
+tp266
+(F29.717485
+F-95.412715000000006
+tp267
+s(S'Beechnut St and W Loop Fwy, Houston TX'
+p268
+tp269
 (F29.6893019
 F-95.459446499999999
-tp264
+tp270
+s(S'Beechnut St and Newcastle St, Houston TX'
+p271
+tp272
+(F29.689232000000001
+F-95.451042299999997
+tp273
+s(V5502 evergreen st, houston (TX)
+p274
+tp275
+(F29.698622
+F-95.476635999999999
+tp276
+s(V5525 jessamine st, houston (TX)
+p277
+tp278
+(F29.700755999999998
+F-95.478474000000006
+tp279
+s(S'N Loop Freeway and North Freeway, Houston TX'
+p280
+tp281
+(F29.7970541
+F-95.450202200000007
+tp282
+s(V5509 aspen, houston (TX)
+p283
+tp284
+(F29.700568000000001
+F-95.477153000000001
+tp285
+s(S'Mainer St and South Fwy, Houston TX'
+p286
+tp287
+(F29.7115227
+F-95.209546599999996
+tp288
+s(V5531 edith, houston (TX)
+p289
+tp290
+(F29.689796000000001
+F-95.486508999999998
+tp291
+s(S'W 20th St and Yale St, Houston TX'
+p292
+tp293
+(F29.803958999999999
+F-95.399215999999996
+tp294
+s(S'Buffalo Speedway and Braeswood Blvd, Houston TX'
+p295
+tp296
+(F29.696395500000001
+F-95.427112500000007
+tp297
+s(S'Kirby Dr and Bissonnet St, Houston TX'
+p298
+tp299
+(F29.725545700000001
+F-95.418580300000002
+tp300
+s(V5647 edith, houston (TX)
+p301
+tp302
+(F29.689671000000001
+F-95.491050000000001
+tp303
+s(S'Bellaire Blvd and Stella Link Rd, Houston TX'
+p304
+tp305
+(F29.7060596
+F-95.440115899999995
+tp306
+s(V5907 high star, houston (TX)
+p307
+tp308
+(F29.711594999999999
+F-95.485189000000005
+tp309
+s(S'W Loop S Fwy and Beechnut St, Houston TX'
+p310
+tp311
+(F29.6893019
+F-95.459446499999999
+tp312
 s.

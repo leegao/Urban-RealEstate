@@ -37,7 +37,15 @@ addrs = [
         ("77081.csv", "Renwick Dr", "Gulfton Dr", "Chimney Rock Rd", "Bellaire Blvd")
         
         ]
-#addrs = [("77096.csv", "Chimney Rock Rd", "S Braeswood Blvd", "S Rice Ave", "Rutherglenn Dr")]
+addrs += [("77096.csv", "Chimney Rock Rd", "S Braeswood Blvd", "S Rice Ave", "Rutherglenn Dr")]+[
+        ("77401.csv","Chimney Rock Rd","Gulfton St","S Rice Ave","Bellaire Blvd"),
+]
+addrs +=  [("77081.csv","Renwick Dr","Bellaire Blvd","Chimney Rock Rd","Beechnut St"),
+        ]
+addrs = [("77401.csv","Newcastle St","Bellaire Blvd","Stella Link Rd","Braeswood Blvd", "Beechnut St")]
+
+addrs = [("77401.csv","W Loop Fwy","Bellaire Blvd","Newcastle St","Beechnut St")]
+
 if __name__ == "__main__":
     from see import see
     for arg in addrs:
@@ -56,6 +64,7 @@ if __name__ == "__main__":
             pass #Success
         else:
             print "\tAnalysis Failed"
+            #print o
             if o[1]:
                 er = ""
                 for i in o[1].split("\n"):
