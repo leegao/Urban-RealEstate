@@ -61,4 +61,6 @@ if __name__ == "__main__":
                 for i in o[1].split("\n"):
                     print "\t"+i
             pass #Failure
+        analyze2 = Popen(["python", "nomarkanalyze.py"]+list(arg), stdout=PIPE, stderr = PIPE)
+        analyze2.communicate()
     
