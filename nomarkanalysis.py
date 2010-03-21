@@ -46,7 +46,7 @@ def analyze(filter):
     Y = np.array(Y)
     Z = np.array(Z)
     
-    ax.scatter(X, Y, marker = 's', color=colors, s = ((Z-Z_min)*Z_scale)**4*15)# color = [['r','b','y'][random.randint(0,2)] for i in range(len(sink))])
+    ax.scatter(X, Y, marker = 's', color=colors, s = ((Z-Z_min)*Z_scale)**3*5)# color = [['r','b','y'][random.randint(0,2)] for i in range(len(sink))])
     #ax.scatter(*zip(*coords), marker = '+')
     
     #for i in range(len(filter.intersections)):

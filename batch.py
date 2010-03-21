@@ -42,9 +42,9 @@ addrs += [("77096.csv", "Chimney Rock Rd", "S Braeswood Blvd", "S Rice Ave", "Ru
 ]
 addrs +=  [("77081.csv","Renwick Dr","Bellaire Blvd","Chimney Rock Rd","Beechnut St"),
         ]
-addrs = [("77401.csv","Newcastle St","Bellaire Blvd","Stella Link Rd","Braeswood Blvd", "Beechnut St")]
+addrs += [("77401.csv","Newcastle St","Bellaire Blvd","Stella Link Rd","Braeswood Blvd", "Beechnut St")]
 
-addrs = [("77401.csv","W Loop Fwy","Bellaire Blvd","Newcastle St","Beechnut St")]
+addrs += [("77401.csv","W Loop Fwy","Bellaire Blvd","Newcastle St","Beechnut St")]
 
 if __name__ == "__main__":
     from see import see
@@ -64,13 +64,13 @@ if __name__ == "__main__":
             pass #Success
         else:
             print "\tAnalysis Failed"
-            #print o
             if o[1]:
                 er = ""
                 for i in o[1].split("\n"):
                     print "\t"+i
             pass #Failure
         Popen(["python", "nomarkanalysis.py"]+list(arg), stdout=PIPE, stderr = PIPE).communicate()
+        Popen(["python", "histanalysis.py"]+list(arg), stdout=PIPE, stderr = PIPE).communicate()
         Popen(["python", "contour3danalysis.py"]+list(arg), stdout=PIPE, stderr = PIPE).communicate()
         Popen(["python", "surface3danalysis.py"]+list(arg), stdout=PIPE, stderr = PIPE).communicate()
         Popen(["python", "scatter3danalysis.py"]+list(arg), stdout=PIPE, stderr = PIPE).communicate()
