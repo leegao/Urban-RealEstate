@@ -46,7 +46,7 @@ class Scrapper:
                 for i in self.sqft.finditer(desc): psqft = float(price)/float(i.group().replace(" s", "")); break
                 if psqft:
                     print "\"%s\",%s,%s,%s,%s"%(address,latlong[0],latlong[1], price, psqft)
-                    time.sleep(1)
+                    #time.sleep(1)
                     #print int(price)/10000
                     self.coords += [[latlong[0],latlong[1], price,psqft]]
                     #return (address,latlong[0],latlong[1], price, psqft)
@@ -64,12 +64,12 @@ class Scrapper:
                 return False
             
 import sys, os, math
-def batch(zipcode, n=50, output = True):
-    scrapper = Scrapper(str(zipcode)+" TX")
+def batch(zipcode, n=1000, output = True, more= ", TX"):
+    scrapper = Scrapper(str(zipcode)+more)
     stdbak = sys.stdout
     _f = stdbak
     if output:
-        _f = open("zips/"+str(zipcode)+".csv", "w")
+        _f = open("zips/"+str(zipcode).replace(" ", "_")+".csv", "w")
     try:
         for i in range(1, n):
             if scrapper.max: 
@@ -79,11 +79,11 @@ def batch(zipcode, n=50, output = True):
             sys.stdout = _f
             scrapper(i)
             sys.stdout = stdbak
-            print "\t\tSleeping for 2 seconds"
-            time.sleep(2)
+            print "\t\tSleeping for 1 seconds"
+            time.sleep(1)
     finally:
         sys.stdout = stdbak
         #_f.close()
     
 if __name__ == "__main__":
-    batch(77081, output = True)
+    batch("Chicago", more=", Il", output = True)

@@ -42,7 +42,14 @@ def latlongus(addr):
 latlong = latlonggoogle
 if USE_GEOCODER_DOT_US: latlong = latlongus
 if USE_DECODER: latlong = _lat
+
+@memoize
+def get_box(addr):
+    js = urllib.urlopen("http://maps.google.com/maps/geo?q="+addr+"&output=json&oe=utf8&sensor=true_or_false&key=ABQIAAAATUuAajSTnXcJBeibatQJ7xRV80K6JW8xL5PK-F-L5ZJTyEySmRRIhcftBfvb5EsoW0-XNUtQ_GYYrA").read()
+    box = json.loads(js)["Placemark"][0]["ExtendedData"]["LatLonBox"]
+    return ((box["north"],box["west"]),(box["north"],box["east"]),(box["south"],box["east"]),(box["south"],box["west"]))
 #print latlongus("Yellowstone Blvd and Scott St, Houston TX")
     
 #print _lat("W Holcombe Blvd and Kirby Dr, Houston TX")
 #print latlong("W Holcombe Blvd and Kirby Dr, Houston TX")
+#getViewbox("Houston, TX")

@@ -1,4 +1,5 @@
-from filter import Filter
+from filter import CoordFilter
+from geocode import get_box
 
 def analyze(filter):
     sink = filter()
@@ -7,6 +8,7 @@ def analyze(filter):
     import matplotlib.pyplot as plt
     import numpy as np
     import random
+    import matplotlib.numerix.ma as M
     
     
     fig = plt.figure()
@@ -20,6 +22,13 @@ def analyze(filter):
         Y += [k[0][1]]
         Z += [k[1]]
     
+    threshold = 1
+
+    #prepare for masking arrays - 'conventional' arrays won't do it
+    Y = M.array(Y)
+    #mask values below a certain threshold
+    Y = M.masked_where(Y < threshold , Y)
+    
     X_min = min(X)
     X_range = max(X)-min(X)
     X_scale = 20.0/X_range
@@ -28,7 +37,7 @@ def analyze(filter):
     Y_range = max(Y)-min(Y)
     Y_scale = 20.0/Y_range
     
-    Z_min = min(Y)
+    Z_min = min(Z)
     Z_range = max(Z)-min(Z)
     Z_scale = 1.0/Z_range
     
@@ -45,7 +54,7 @@ def analyze(filter):
     Y = np.array(Y)
     Z = np.array(Z)
     
-    ax.scatter(X, Y, marker = 's', color=colors, s = ((Z-Z_min)*Z_scale)**3*5)# color = [['r','b','y'][random.randint(0,2)] for i in range(len(sink))])
+    ax.scatter(X, Y, marker = 's', color=colors, s = ((Z-Z_min+Z_min/Z_range)*Z_scale)**2*100)# color = [['r','b','y'][random.randint(0,2)] for i in range(len(sink))])
     ax.scatter(*zip(*coords), marker = '+')
     
     for i in range(len(filter.intersections)):
@@ -61,6 +70,7 @@ if __name__ == "__main__":
     if len(sys.argv) < 2:
         print "Usage: analyze.py <file> <street1> <street2> <street3> ..."
         sys.exit(1)
-    plt = analyze(Filter(*sys.argv[1:]))
+    
+    plt = analyze(CoordFilter(sys.argv[1], *get_box(sys.argv[2])))
     plt.savefig("results/data.marked."+(".".join(sys.argv[2:])).replace(" ","_")+".png")
     print "0"

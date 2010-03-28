@@ -1,4 +1,5 @@
-from filter import Filter
+from filter import CoordFilter
+from geocode import get_box
 
 def analyze(filter):
     sink = filter()
@@ -29,7 +30,7 @@ def analyze(filter):
     Y_range = max(Y)-min(Y)
     Y_scale = 20.0/Y_range
     
-    Z_min = min(Y)
+    Z_min = min(Z)
     Z_range = max(Z)-min(Z)
     Z_scale = 1.0/Z_range
     
@@ -37,7 +38,7 @@ def analyze(filter):
     for i in range(len(sink)):
         X[i] = (X[i]-X_min)*110.83575 #* X_scale
         Y[i] = (Y[i]-Y_min)*97.43888 #* Y_scale
-        colors.append(tuple([0.2,0.1]+[1-Z[i]/max(Z)]*1+[1]))
+        colors.append(tuple([0.2,0.1]+[1-Z[i]/max(Z)]*1+[0]))
     
     z = zip(*filter.coords)
     coords = zip( (np.array(z[0])-X_min)*110.83575, (np.array(z[1])-Y_min)*97.43888)
@@ -46,7 +47,7 @@ def analyze(filter):
     Y = np.array(Y)
     Z = np.array(Z)
     
-    ax.scatter(X, Y, marker = 's', color=colors, s = ((Z-Z_min)*Z_scale)**3*5)# color = [['r','b','y'][random.randint(0,2)] for i in range(len(sink))])
+    ax.scatter(X, Y, marker = 's', color=colors, s = ((Z-Z_min+Z_min/Z_range)*Z_scale)**2*80)# color = [['r','b','y'][random.randint(0,2)] for i in range(len(sink))])
     #ax.scatter(*zip(*coords), marker = '+')
     
     #for i in range(len(filter.intersections)):
@@ -62,6 +63,6 @@ if __name__ == "__main__":
     if len(sys.argv) < 2:
         print "Usage: nomarkanalyze.py <file> <street1> <street2> <street3> ..."
         sys.exit(1)
-    plt = analyze(Filter(*sys.argv[1:]))
+    plt = analyze(CoordFilter(sys.argv[1], *get_box(sys.argv[2])))
     plt.savefig("results/data.nomark."+(".".join(sys.argv[2:])).replace(" ","_")+".png")
     print "0"

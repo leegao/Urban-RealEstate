@@ -30,7 +30,7 @@ def analyze(filter):
     Y_range = max(Y)-min(Y)
     Y_scale = 20.0/Y_range
     
-    Z_min = min(Y)
+    Z_min = min(Z)
     Z_range = max(Z)-min(Z)
     Z_scale = 1.0/Z_range
     
@@ -72,7 +72,7 @@ def analyze(filter):
     axHisty.yaxis.set_major_formatter(nullfmt)
     
     # the scatter plot:
-    axScatter.scatter(x, y, marker = 's', color=colors, s = ((Z-Z_min)*Z_scale)**3*5)# color = [['r','b','y'][random.randint(0,2)] for i in range(len(sink))])
+    axScatter.scatter(x, y, marker = 's', color=colors, s = ((Z-Z_min+Z_min/Z_range)*Z_scale)**2*200)# color = [['r','b','y'][random.randint(0,2)] for i in range(len(sink))])
     
     # now determine nice limits by hand:
     binwidth = 0.25
